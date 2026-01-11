@@ -1,0 +1,464 @@
+candidates,name,species,uniprotID,start#,sequence,aa_sequence,evidence_line,secondary,class,loc_DISO,loc_CDD,beta,refDB
+cand_D,ADAR1,Homo sapiens,P55265,122,GVDCLSSHFQELSIYQ  ...........*.*..,GVDCLSSHFQELSIYQ,...........*.*..,CCCCCCCCCCCCCCCC,c1a-5,boundary,boundary|z-alpha;,0.0,NESdb:110
+cand_D,Cdc7,Homo sapiens,O00311,457,DLRKLCERLRGMDS  &nbsp+++++++*++&nbsp&nbsp&nbsp,DLRKLCERLRGMDS,+++++++*++,CHHHHHHHHCCCCC,c3-4,boundary,boundary|STKc_Cdc7; MID|PKc_like superfamily;,0.0,NESdb:197 validNES:P189
+cand_D,Cdc7,Homo sapiens,O00311,538,VPDEAYDLLDKLLDLNP  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++**++++,VPDEAYDLLDKLLDLNP,++++**++++,CCCHHHHHHHHHCCCCC,c1c-AT-4,boundary,boundary|PKc_like superfamily;,0.0,NESdb:197 validNES:P189
+cand_D,CPEB4,Homo sapiens,Q17RY0,379,RTFDMHSLESSLIDIM  .......*...*....,RTFDMHSLESSLIDIM,.......*...*....,CCCCCCCCHHHHHHHH,c1aR-5,DISO,,0.0,NESdb:198
+cand_D,CPEB4,Homo sapiens,Q17RY0,382,DMHSLESSLIDIMR  ....*...*.....,DMHSLESSLIDIMR,....*...*.....,CCCCCHHHHHHHHC,c3-4,DISO,,0.0,NESdb:198
+cand_D,FMRP,Homo sapiens,Q06787,420,HLNYLKEVDQLRLER  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++*+*++,HLNYLKEVDQLRLER,++++*+*++,HHHHHHHHHHHHHHH,c1b-5,DISO,boundary|FXMRP1_C_core;,0.0,NESdb:22
+cand_D,FMRP,Homo sapiens,Q06787,426,EVDQLRLERLQIDE  ++++*+*++*+*++,EVDQLRLERLQIDE,++++*+*++*+*++,HHHHHHHHHHHHHH,c2-5,DISO,boundary|FXMRP1_C_core;,0.0,NESdb:22
+cand_D,HDAC5,Homo sapiens,Q9UQL6,1081,EEAETVSAMALLSVGA  .....*....**....,EEAETVSAMALLSVGA,.....*....**....,CHHHHHHHCCCCCCCH,c1a-AT-4,DISO,boundary|HDAC5;,0.0,NESdb:61 validNES:P069
+cand_D,HIV-REV,Human immunodeficiency virus type 1,P69718,74,QLPPLERLTLDC  ++++**+*+*+&nbsp,QLPPLERLTLDC,++++**+*+*+,CCCCCCCCCCCC,c2-rev,DISO,boundary|REV;,0.0,NESdb:2
+cand_D,HPV16 E7,Human papillomavirus type 16,P03129,75,DIRTLEDLLMGTLGIVC  &nbsp*&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,DIRTLEDLLMGTLGIVC,*  *  * *,HHHHHHHHHCCCCCEEC,c1c-5,boundary,boundary|E7;,0.0,NESdb:114
+cand_D,HPV16 E7,Human papillomavirus type 16,P03129,78,TLEDLLMGTLGIVC  &nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,TLEDLLMGTLGIVC,*  * *,HHHHHHCCCCCEEC,c2-5,boundary,boundary|E7;,0.0,NESdb:114
+cand_D,hRio2,Homo sapiens,Q9BVS4,389,RSFEMTEFNQALEEIK  +++++++++++*++*+,RSFEMTEFNQALEEIK,+++++++++++*++*+,CCCCCCCCHHHHHHHC,c1aR-5,DISO,,0.0,NESdb:153
+cand_D,hRio2,Homo sapiens,Q9BVS4,392,EMTEFNQALEEIKG  ++++++++*++*++,EMTEFNQALEEIKG,++++++++*++*++,CCCCCHHHHHHHCC,c3-4,DISO,,0.0,NESdb:153
+cand_D,MAPKK1/MEK1; map2k1,Xenopus laevis,Q05116,29,NLEALQKKLEELELDE  &nbsp&nbsp&nbsp+*+++*++*+*++,NLEALQKKLEELELDE,+*+++*++*+*++,CHHHHHHHHHHCCCCH,c1a-5,DISO,boundary|PKc_MEK1;,0.0,NESdb:11 validNES:P012
+cand_D,mDia2,Mus musculus,Q9Z207,1157,SVPEVEALLARLRA  &nbsp++++++++++*++,SVPEVEALLARLRA,++++++++++*++,CHHHHHHHHHHHHC,c3-4,DISO,,0.0,NESdb:77
+cand_D,mDia2,Mus musculus,Q9Z207,1160,EVEALLARLRALXX  ++++++++*+++&nbsp&nbsp,EVEALLARLRALXX,++++++++*+++,HHHHHHHHHHCC,c3-4-Ct,DISO,,0.0,NESdb:77
+cand_D,NPM mutants,Homo sapiens,ABC40399.1,283,AIQDLCMAVEEVSLRK  &nbsp&nbsp&nbsp+++*+*++*++&nbsp&nbsp,AIQDLCMAVEEVSLRK,+++*+*++*++,HHHHHHHHHHHHHCCC,c1a-5,boundary,,0.0,NESdb:94
+cand_D,NS2-P (MVM),Murine minute virus,Q83414,78,TVDEMTKKFGTLTIHD  &nbsp&nbsp..*+++**+***..,TVDEMTKKFGTLTIHD,..*+++**+***..,HHHHHHHHHCCEEEEC,c1a-5,DISO,,0.0,NESdb:85 validNES:P140
+cand_D,p73; TP73,Homo sapiens,O15350,367,ILMKLKESLELMELVP  ++++++++*+*+++++,ILMKLKESLELMELVP,++++++++*+*+++++,HHHHHHHHHHHHHCCC,c1a-5,DISO,small|P53_tetramer;,0.0,NESdb:39 validNES:P031
+cand_D,PKIα,Homo sapiens,P61925,34,NSNELALKLAGLDINK  &nbsp&nbsp++*+++*++*+*++,NSNELALKLAGLDINK,++*+++*++*+*++,CCHHHHHHHHCCCCCC,c1a-4,DISO,boundary|PKI;,0.0,NESdb:5 validNES:P001
+cand_D,PKIα,Homo sapiens,P61925,36,NELALKLAGLDINK  ++*+++*++*+*++,NELALKLAGLDINK,++*+++*++*+*++,HHHHHHHHCCCCCC,c2-4,DISO,boundary|PKI;,0.0,NESdb:5 validNES:P001
+cand_D,Smad4,Homo sapiens,Q13485,137,VSPGIDLSGLTLQS  &nbsp&nbsp&nbsp++++++*+*+&nbsp,VSPGIDLSGLTLQS,++++++*+*+,CCCCCCCCCCCCCC,c2-4,DISO,boundary|MH1_SMAD_4;,0.0,NESdb:18 validNES:P035
+cand_D,SNUPN,Homo sapiens,O95149,1,XMEELSQALASSFSVSQ  &nbsp+***+++*++*++++&nbsp,XMEELSQALASSFSVSQ,+***+++*++*++++,CHHHHHHHHCCCCCCCC,c1c-5-Nt,DISO,,0.0,NESdb:1
+cand_D,STRADα,Homo sapiens,Q7RTN6,16,SEKFIVEGLRDLELFG  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,SEKFIVEGLRDLELFG,* *,HHHHHHHCCCCCCCCC,c1a-4,DISO,,0.0,NESdb:154
+cand_D,STRADα,Homo sapiens,Q7RTN6,413,GIFGLVTNLEELEVDD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,GIFGLVTNLEELEVDD,*  *,CCCCCCCCCCCCCCCC,c1a-5,DISO,boundary|PK_STRAD_alpha;,0.0,NESdb:154
+cand_D,X11L2,Homo sapiens,O96018,56,SLQELVQQFEALPGDLVG  ++++**++++++++++++,SLQELVQQFEALPGDLVG,++++**++++++++++++,HHHHHHHHHHCCCCCCCC,c4-5,DISO,,0.0,NESdb:141
+cand_D,X11L2,Homo sapiens,O96018,56,SLQELVQQFEALPG  ++++**++++++++,SLQELVQQFEALPG,++++**++++++++,HHHHHHHHHHCCCC,c3-4,DISO,,0.0,NESdb:141
+cand_D,4E-T,Homo sapiens,Q9NRA8,434,SVEEVEAGLKGLKVDQ  ....*...*..*.*..,SVEEVEAGLKGLKVDQ,....*...*..*.*..,HHHHHHHHHCCCCCCC,c1a-5,DISO,MID|EIF4E-T;,0.0,NESdb:233
+cand_D,4E-T,Homo sapiens,Q9NRA8,609,PMSPITAQMSQLELQQ  ....*...*..*.*..,PMSPITAQMSQLELQQ,....*...*..*.*..,CCCCHHHHCCHHHHHH,c1a-5,DISO,MID|EIF4E-T;,0.0,NESdb:233
+cand_D,4E-T,Homo sapiens,Q9NRA8,618,SQLELQQAALEGLALPH  ..*.*....*..*.*..,SQLELQQAALEGLALPH,..*.*....*..*.*..,CHHHHHHHHCCCCCCCC,c1c-AT-4,DISO,MID|EIF4E-T;,0.0,NESdb:233
+cand_D,Abl1,Mus musculus,P00520,1079,AINKLESNLRELQICP  ++++++++++++++++,AINKLESNLRELQICP,++++++++++++++++,HHHHHHHHCCCCCCCC,c1a-5,DISO,MID|FABD;,0.0,validNES:P007
+cand_D,ACD,Homo sapiens,Q96AP0,267,HQGALVCLAESCLTLEG  &nbsp&nbsp&nbsp&nbsp++++++++++++&nbsp,HQGALVCLAESCLTLEG,++++++++++++,HHHHHHHHHHHHCCCCC,c1c-AT-4,DISO,,0.0,validNES:P156
+cand_O,ACT1,Saccharomyces cerevisiae,P60010,158,GVTHVVPIYAGFSLPH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++,GVTHVVPIYAGFSLPH,++++,CCEEECCCCCCCCCCC,c1d-5,ORD,MID|NBD_sugar-kinase_HSP70_actin superfamily;,0.143,validNES:P009
+cand_O,ACT1,Saccharomyces cerevisiae,P60010,167,AGFSLPHAILRIDLAG  &nbsp&nbsp&nbsp++++++++++++&nbsp,AGFSLPHAILRIDLAG,++++++++++++,CCCCCCCHHHHHCCCC,c1a-4,ORD,MID|NBD_sugar-kinase_HSP70_actin superfamily;,0.0,validNES:P009
+cand_D,ACT1,Saccharomyces cerevisiae,P60010,208,IVRDIKEKLCYVALDF  &nbsp&nbsp&nbsp++++++++++++&nbsp,IVRDIKEKLCYVALDF,++++++++++++,HHHHCCCCCEEEECCH,c1a-5,boundary,MID|NBD_sugar-kinase_HSP70_actin superfamily;,0.286,validNES:P009
+cand_D,Actinin-4,Homo sapiens,O43707,131,AEEIVDGNAKMTLGMIW  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++,AEEIVDGNAKMTLGMIW,+++++++,CCCCCCCCCHHHHHHHH,c1c-AT-4,boundary,MID|SAC6 superfamily;,0.0,NESdb:227
+cand_D,Actinin-4,Homo sapiens,O43707,142,TLGMIWTIILRFAIQD  ++++++++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,TLGMIWTIILRFAIQD,++++++++++,HHHHHHHHHHHHCCCC,c1a-5,boundary,MID|SAC6 superfamily;,0.0,NESdb:227
+cand_D,Adar,Mus musculus,Q99MU3,124,GADGLCSHFRELSISQ  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,GADGLCSHFRELSISQ,++++++++++,CCCCCCCCCCCCCCCC,c1a-4,boundary,boundary|z-alpha;,0.0,validNES:P119
+cand_D,AhR,Homo sapiens,P35869,56,FPQDVINKLDKLSVLR  ++++++++++++++*+,FPQDVINKLDKLSVLR,++++++++++++++*+,CCHHHHHCHHHHHHHH,c1a-4,DISO,small|HLH;,0.0,NESdb:55
+cand_D,AhR,Homo sapiens,P35869,63,KLDKLSVLRLSVSY  +++++++*+*+++&nbsp,KLDKLSVLRLSVSY,+++++++*+*+++,CHHHHHHHHHHHCC,c2-5,DISO,small|HLH;,0.0,NESdb:55
+cand_D,AhR,Homo sapiens,P35869,66,KLSVLRLSVSYLRA  ++++*+*+++&nbsp&nbsp&nbsp&nbsp,KLSVLRLSVSYLRA,++++*+*+++,HHHHHHHHHCCCCC,c3-4,DISO,,0.0,NESdb:55
+cand_D,AID,Takifugu rubripes,Q75R42,185,DLEDLRDALKLLGFXX  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,DLEDLRDALKLLGFXX,++++++++++,CCCHHHHHHCCCCC,c1a-5-Ct,boundary,boundary|APOBEC_N;,0.0,validNES:P133
+cand_D,AID; AICDA,Homo sapiens,Q9GZX7,185,EVDDLRDAFRTLGLXX  &nbsp&nbsp&nbsp+*+++*++*+*&nbsp&nbsp,EVDDLRDAFRTLGLXX,+*+++*++*+*,CCCCHHHHCCCCCC,c1a-5-Ct,boundary,boundary|APOBEC_N;,0.0,NESdb:75 validNES:P122
+cand_D,Akt1,Homo sapiens,P31749,271,VYRDLKLENLMLDK  &nbsp+++++*++*+*++,VYRDLKLENLMLDK,+++++*++*+*++,EEECCCCCCCCCCC,c2-4,boundary,MID|STKc_PKB_alpha;,0.0,NESdb:261 validNES:P199
+cand_D,AMPKα2,Rattus norvegicus,Q09137,528,ASPRLGSHTMDFFEMCA  &nbsp&nbsp&nbsp++++++++++++++,ASPRLGSHTMDFFEMCA,++++++++++++++,CCCCCCCCCCCHHHHHH,c1c-AT-4,boundary,boundary|AMPKA2_C;,0.0,NESdb:156
+cand_D,AMPKα2,Rattus norvegicus,Q09137,535,HTMDFFEMCASLITAL  +++++++++++*+++*,HTMDFFEMCASLITAL,+++++++++++*+++*,CCCCHHHHHHHHHHHH,c1aR-4,boundary,boundary|AMPKA2_C;,0.0,NESdb:156
+cand_D,An3,Xenopus laevis,P24346,8,NVLNLDQQFAGLDLNS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,NVLNLDQQFAGLDLNS,* *,CCCCHHHHCCCCCCCC,c1a-5,DISO,boundary|Rho superfamily;,0.0,NESdb:88
+cand_D,ANCO-1; ANKRD11,Homo sapiens,Q6UB99,2411,IQQTLAAIVDAIKLDA  ++++*++**++*+*++,IQQTLAAIVDAIKLDA,++++*++**++*+*++,HCCHHHHHHCCCCCCC,c1a-4,DISO,,0.0,NESdb:216 validNES:P111
+cand_D,ANKRD54,Homo sapiens,Q6NXT1,279,EVTDLLASFTSLSLQM  &nbsp&nbsp&nbsp+++++++++++&nbsp&nbsp,EVTDLLASFTSLSLQM,+++++++++++,HHHHHHHCCCCCCCCC,c1a-5,DISO,,0.0,validNES:P207
+cand_D,ANXA2,Homo sapiens,P07355,1,XMSTVHEILCKLSLEG  &nbsp+++++++++++++++,XMSTVHEILCKLSLEG,+++++++++++++++,CCHHHHHHHCCCCCCC,c1a-5-Nt,DISO,boundary|Annexin;,0.0,validNES:P191
+cand_D,APC Protein,Homo sapiens,P25054,64,GQIDLLERLKELNLDS  &nbsp&nbsp&nbsp&nbsp+++++++*+*&nbsp&nbsp,GQIDLLERLKELNLDS,+++++++*+*,CCHHHHHHHHCCCCCC,c1a-4,DISO,boundary|APC_N_CC; MID|SMC_N superfamily;,0.0,NESdb:47 validNES:P041
+cand_D,APC Protein,Homo sapiens,P25054,1649,INFSTATSLSDLTIES  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,INFSTATSLSDLTIES,*  *,CCCCCCCCCCCCCCCC,c1a-AT-4,DISO,MID|DUF4045 superfamily; boundary|APC_u13;,0.0,NESdb:47 validNES:P041
+cand_D,APOBEC1,Rattus norvegicus,P38483,169,RYPHLWVRLYVLELYC  &nbsp&nbsp&nbsp&nbsp*+++*++*+*++,RYPHLWVRLYVLELYC,*+++*++*+*++,CCCHHHHHHHHHHHHH,c1a-4,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,171,PHLWVRLYVLELYC  &nbsp&nbsp*+++*++*+*++,PHLWVRLYVLELYC,*+++*++*+*++,CHHHHHHHHHHHHH,c2-4,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,175,VRLYVLELYCIILGLP  ++*++*+*++++++++,VRLYVLELYCIILGLP,++*++*+*++++++++,HHHHHHHHHHHHCCCC,c1aR-5,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,176,RLYVLELYCIILGL  +*++*+*+++++++,RLYVLELYCIILGL,+*++*+*+++++++,HHHHHHHHHHHCCC,c2-5,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,178,YVLELYCIILGLPPCL  ++*+*+++++++++++,YVLELYCIILGLPPCL,++*+*+++++++++++,HHHHHHHHHCCCCCCC,c1aR-4,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,178,YVLELYCIILGLPPCLNI  ++*+*+++++++++++++,YVLELYCIILGLPPCLNI,++*+*+++++++++++++,HHHHHHHHHCCCCCCCCC,c4-5,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,178,YVLELYCIILGLPP  ++*+*+++++++++,YVLELYCIILGLPP,++*+*+++++++++,HHHHHHHHHCCCCC,c3-4,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,APOBEC1,Rattus norvegicus,P38483,185,IILGLPPCLNILRR  ++++++++++++&nbsp&nbsp,IILGLPPCLNILRR,++++++++++++,HHCCCCCCCCCCCC,c3-4,boundary,boundary|APOBEC_N;,0.0,NESdb:76 validNES:P095
+cand_D,ATF-2,Homo sapiens,P15336,386,DLSSLNGQLQSEVTLLR  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++,DLSSLNGQLQSEVTLLR,+++,HHHHHHHHHHHHHHHHH,c1c-5,DISO,boundary|bZIP_ATF2;,0.0,NESdb:208 validNES:P085
+cand_D,ATF-2,Homo sapiens,P15336,397,EVTLLRNEVAQLKQ  &nbsp&nbsp&nbsp+++++*++*++,EVTLLRNEVAQLKQ,+++++*++*++,HHHHHHHHHHHHHH,c3-4,DISO,boundary|bZIP_ATF2;,0.0,NESdb:208 validNES:P085
+cand_D,Aven,Homo sapiens,Q9NQS1,278,AGDHLEEELDLLLNLDA  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp***&nbsp*&nbsp&nbsp,AGDHLEEELDLLLNLDA,* *** *,CCCCCHHHHHHHHCCCC,c1c-4,DISO,,0.0,NESdb:174
+cand_D,Beclin 1,Homo sapiens,Q14457,176,DSEQLQMELKELALEE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,DSEQLQMELKELALEE,*  *,CHHHHHHHHHHHHHHH,c1a-4,boundary,MID|APG6;,0.0,NESdb:132
+cand_D,Beclin 1,Homo sapiens,Q14457,178,EQLQMELKELALEE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,EQLQMELKELALEE,*  *,HHHHHHHHHHHHHH,c2-4,boundary,MID|APG6;,0.0,NESdb:132
+cand_D,Beta-tubulin,Sus scrofa,P02554,38,GDSDLQLERINVYY  &nbsp&nbsp&nbsp++++++++++&nbsp,GDSDLQLERINVYY,++++++++++,CCCCCCCCCEEEEE,c2-4,boundary,MID|PLN00220;,0.143,validNES:P141
+cand_D,BICP27; bie27,Bovine herpesvirus 1,Q01354,298,SLEELCAARRLSLAT  &nbsp*++*+++++*+*&nbsp&nbsp,SLEELCAARRLSLAT,*++*+++++*+*,CHHHHHHHHCCCCCC,c1b-AT-5,boundary,MID|Herpes_UL69 superfamily;,0.0,NESdb:176 validNES:P169
+cand_D,Birc5,Mus musculus,O70201,85,AFLTVKKQMEELTVSE  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,AFLTVKKQMEELTVSE,++++++++++,CCEECCCCCCCHHHHH,c1a-5,boundary,boundary|BIR;,0.0,validNES:P079
+cand_D,BIRC5,Homo sapiens,O15392-4,85,AFLSVKKQFEELTLGE  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,AFLSVKKQFEELTLGE,++++++++++,CCEECCCCCCCCCHHH,c1a-5,boundary,boundary|BIR;,0.0,validNES:P192
+cand_D,Bok,Homo sapiens,Q9UMX3,62,RLAEVCAVLLRLGD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+*+*++,RLAEVCAVLLRLGD,+*+*++,CHHHHHHHHHHHHH,c3-4,boundary,MID|Bcl-2_like;,0.0,NESdb:107 validNES:P126
+cand_D,Bok,Homo sapiens,Q9UMX3,65,EVCAVLLRLGDELEMIR  &nbsp&nbsp&nbsp&nbsp&nbsp+*+*+++++&nbsp&nbsp&nbsp,EVCAVLLRLGDELEMIR,+*+*+++++,HHHHHHHHHHHHHHHHC,c1c-5,boundary,MID|Bcl-2_like;,0.0,NESdb:107 validNES:P126
+cand_D,Bok,Homo sapiens,Q9UMX3,69,VLLRLGDELEMIRP  &nbsp+*+*+++++&nbsp&nbsp&nbsp&nbsp,VLLRLGDELEMIRP,+*+*+++++,HHHHHHHHHHHHCH,c3-4,boundary,MID|Bcl-2_like;,0.0,NESdb:107 validNES:P126
+cand_D,Bok,Homo sapiens,Q9UMX3,69,VLLRLGDELEMIRPSVYR  &nbsp+*+*+++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,VLLRLGDELEMIRPSVYR,+*+*+++++,HHHHHHHHHHHHCHHHHH,c4-5,boundary,MID|Bcl-2_like;,0.0,NESdb:107 validNES:P126
+cand_O,BPV-E1,Bovine papillomavirus type 1,P03116,405,QNIELITFINALKLWL  &nbsp&nbsp&nbsp+++++*++*++&nbsp&nbsp,QNIELITFINALKLWL,+++++*++*++,CCCCHHHHHHHHHHHH,c1a-4,ORD,MID|PHA02774;,0.0,NESdb:139 validNES:P187
+cand_O,BPV-E1,Bovine papillomavirus type 1,P03116,405,QNIELITFINALKLWL  &nbsp&nbsp&nbsp+++++*++*++&nbsp&nbsp,QNIELITFINALKLWL,+++++*++*++,CCCCHHHHHHHHHHHH,c1aR-4,ORD,MID|PHA02774;,0.0,NESdb:139 validNES:P187
+cand_D,BRCA1,Homo sapiens,P38398,24,CPICLELIKEPVSTKC  +++++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,CPICLELIKEPVSTKC,+++++++,CCCCCCCCCCCCCCCC,c1aR-4,DISO,small|RING-HC_BRCA1; boundary|RAD18 superfamily;,0.0,NESdb:10 validNES:P014
+cand_D,BRCA1,Homo sapiens,P38398,75,ESTRFSQLVEELLKIIC  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++*+++*+,ESTRFSQLVEELLKIIC,+++++*+++*+,CCHHHHHHHHHHHHHHH,c1c-4,DISO,MID|RAD18 superfamily;,0.0,NESdb:10 validNES:P014
+cand_D,BRCA1,Homo sapiens,P38398,82,LVEELLKIICAFQLDT  ++++*+++*++*+*++,LVEELLKIICAFQLDT,++++*+++*++*+*++,HHHHHHHHHHHHCCCC,c1a-5,DISO,MID|RAD18 superfamily;,0.0,NESdb:10 validNES:P014
+cand_D,BRCA2,Homo sapiens,P51587,1376,GNTQIKEDLSDLTFLE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+*++*++++,GNTQIKEDLSDLTFLE,+*++*++++,CCCCCCCCCCCCCHHH,c1a-4,DISO,,0.0,NESdb:169 validNES:P137
+cand_D,BRO-a,Bombyx mori nuclear polyhedrosis virus,O92398,89,TVLITKEGVIQLIMKS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+*++,TVLITKEGVIQLIMKS,*+*++,EEEECHHHHHHHHHHC,c1a-AT-5,boundary,boundary|Bro-N;,0.0,NESdb:184 validNES:P131
+cand_D,BRO-a,Bombyx mori nuclear polyhedrosis virus,O92398,98,IQLIMKSKLPYAVELQA  &nbsp&nbsp*+*+++*++++++&nbsp&nbsp,IQLIMKSKLPYAVELQA,*+*+++*++++++,HHHHHHCCCCCHHHHHH,c1cR-4,boundary,boundary|Bro-N;,0.0,NESdb:184 validNES:P131
+cand_D,C,Measles virus,P35977,72,AVRDLERAMTTLKLWE  &nbsp&nbsp++++++++++++++,AVRDLERAMTTLKLWE,++++++++++++++,HHHHHHHHHHHHHHCC,c1a-5,boundary,MID|Paramyxo_NS_C superfamily;,0.0,NESdb:195
+cand_D,CaMKIα,Rattus norvegicus,Q63450,308,NATAVVRHMRKLQLGT  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,NATAVVRHMRKLQLGT,* *,HHHHHHHHHHHHHCCC,c1a-4,DISO,boundary|STKc_CaMKI_alpha;,0.0,NESdb:143
+cand_D,Cdc14A,Homo sapiens,Q9UNH5,351,SINKILSGLDDMSIGG  &nbsp&nbsp&nbsp&nbsp**++*++*+*&nbsp&nbsp,SINKILSGLDDMSIGG,**++*++*+*,CCCCCCCCCCCCCCCC,c1a-5,DISO,boundary|PTPc superfamily;,0.0,NESdb:124 validNES:P127
+cand_D,CDC14B,Homo sapiens,O60729,389,AFSKLLSGVDDISING  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,AFSKLLSGVDDISING,++++++++++,CCCCCCCCCCCCCCCC,c1a-5,DISO,boundary|PTPc superfamily;,0.0,validNES:P078
+cand_D,Cdc25,Xenopus laevis,P30309,43,PEQPLTPVTDLAVGFSN  &nbsp&nbsp&nbsp&nbsp++++++*+*+*&nbsp&nbsp,PEQPLTPVTDLAVGFSN,++++++*+*+*,CCCCCCCHHHCCCCCCC,c1c-AT-4,DISO,,0.0,NESdb:46 validNES:P040
+cand_D,Cdc25,Xenopus laevis,P30309,49,PVTDLAVGFSNLST  ++++*+*+*&nbsp&nbsp&nbsp&nbsp&nbsp,PVTDLAVGFSNLST,++++*+*+*,CHHHCCCCCCCCCC,c3-4,DISO,,0.0,NESdb:46 validNES:P040
+cand_D,Cdc25,Xenopus laevis,P30309,338,LKKTLSLCDVDIST  &nbsp&nbsp&nbsp&nbsp++*++*+*+&nbsp,LKKTLSLCDVDIST,++*++*+*+,CCCCCCCCCCCCCC,c2-4,DISO,boundary|M-inducer_phosp superfamily;,0.0,NESdb:46 validNES:P040
+cand_beta_D,Cdc6,Homo sapiens,Q99741,309,SHLVLIGIANTLDLTD  &nbsp+*+*++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,SHLVLIGIANTLDLTD,+*+*++,CCEEEEEEECCCCCCC,c1aR-4,boundary,MID|CDC6;,0.714,NESdb:260
+cand_D,CFL1,Homo sapiens,P23528,7,VSDGVIKVFNDMKVRK  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,VSDGVIKVFNDMKVRK,++++++++++,CCHHHHHHHHHHCCCC,c1a-4,boundary,boundary|ADF_cofilin_like;,0.0,validNES:P209
+cand_D,Chp,Rattus norvegicus,P61023,134,ELLQVLRMMVGVNISD  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,ELLQVLRMMVGVNISD,++++++++++,HHHHHHHHHHCCCCCH,c1a-5,boundary,MID|FRQ1;,0.0,validNES:P217
+cand_D,Chp,Rattus norvegicus,P61023,172,SFTEFVKVLEKVDVEQ  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,SFTEFVKVLEKVDVEQ,++++++++++,CHHHHHHHHCCCCCCC,c1a-5,boundary,boundary|FRQ1;,0.0,validNES:P217
+cand_D,CHP1,Homo sapiens,Q99653,134,ELLQVLRMMVGVNISD  &nbsp&nbsp&nbsp&nbsp**+++*+*+*&nbsp&nbsp,ELLQVLRMMVGVNISD,**+++*+*+*,HHHHHHHHHHCCCCCH,c1a-5,boundary,MID|FRQ1;,0.0,NESdb:96
+cand_D,CHP1,Homo sapiens,Q99653,172,SFTEFVKVLEKVDVEQ  &nbsp&nbsp&nbsp&nbsp+++**++*+*&nbsp&nbsp,SFTEFVKVLEKVDVEQ,+++**++*+*,CHHHHHHHHCCCCCCC,c1a-5,boundary,boundary|FRQ1;,0.0,NESdb:96
+cand_D,ChREBP,Rattus norvegicus,Q8VIP2,1,XMARALADLSVNLQVPR  &nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,XMARALADLSVNLQVPR,*      *,CHHHHCCCCCCCCCCCC,c1c-AT-5-Nt,DISO,,0.0,NESdb:178
+cand_D,ChREBP,Rattus norvegicus,Q8VIP2,82,IDPTLTRLFECLSLAY  &nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,IDPTLTRLFECLSLAY,*      *,CCHHHHHHHHHHCEEC,c1a-4,boundary,,0.0,NESdb:178
+cand_D,cIAP1,Homo sapiens,Q13490,246,NCPFLENSLETLRFSI  +++++++++++*+++*,NCPFLENSLETLRFSI,+++++++++++*+++*,CCCCCCCCCCCCCCCC,c1a-4,boundary,boundary|BIR; boundary|BIR;,0.0,NESdb:103
+cand_D,cIAP1,Homo sapiens,Q13490,253,SLETLRFSISNLSMQT  ++++*+++*++*+++&nbsp,SLETLRFSISNLSMQT,++++*+++*++*+++,CCCCCCCCCCCCCHHH,c1a-5,boundary,boundary|BIR; boundary|BIR;,0.0,NESdb:103
+cand_D,COMMD1,Homo sapiens,Q8N668,134,HSAQIHTPVAIIELEL  &nbsp&nbsp&nbsp&nbsp+++++++*+*+*,HSAQIHTPVAIIELEL,+++++++*+*+*,HHHHCCCCEEEEEEEE,c1a-4,boundary,MID|Commd1_MURR1;,0.429,NESdb:117
+cand_beta_D,COMMD1,Homo sapiens,Q8N668,138,IHTPVAIIELELGK  +++++++*+*+*++,IHTPVAIIELELGK,+++++++*+*+*++,CCCCEEEEEEEECC,c2-4,boundary,MID|Commd1_MURR1;,0.857,NESdb:117
+cand_beta_D,COMMD1,Homo sapiens,Q8N668,155,ESEFLCLEFDEVKVNQ  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++,ESEFLCLEFDEVKVNQ,++++++,CCCCEEEEECHHHHHH,c1a-4,boundary,boundary|Commd1_MURR1;,0.714,NESdb:117
+cand_beta_D,COMMD1,Homo sapiens,Q8N668,157,EFLCLEFDEVKVNQ  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++,EFLCLEFDEVKVNQ,++++++,CCEEEEECHHHHHH,c2-5,boundary,boundary|Commd1_MURR1;,0.571,NESdb:117
+cand_D,COMMD1,Homo sapiens,Q8N668,167,KVNQILKTLSEVEE  +++++*++*++*++,KVNQILKTLSEVEE,+++++*++*++*++,HHHHHHHHHHHHHH,c3-4,boundary,boundary|Commd1_MURR1;,0.0,NESdb:117
+cand_D,COP1; Rfwd2,Mus musculus,Q9R1A8,231,DQDNLDLANVNLML  ......+++++++*,DQDNLDLANVNLML,......+++++++*,CCCCCCHHHHHHHH,c2-4,DISO,boundary|WD40 superfamily;,0.0,NESdb:82 validNES:P125
+cand_D,COP1; Rfwd2,Mus musculus,Q9R1A8,233,DNLDLANVNLMLELLV  ....+++++++*+*+.,DNLDLANVNLMLELLV,....+++++++*+*+.,CCCCHHHHHHHHHHHH,c1aR-5,DISO,boundary|WD40 superfamily;,0.0,NESdb:82 validNES:P125
+cand_D,COP1; Rfwd2,Mus musculus,Q9R1A8,236,DLANVNLMLELLVQ  .+++++++*+*+..,DLANVNLMLELLVQ,.+++++++*+*+..,CHHHHHHHHHHHHH,c3-4,DISO,boundary|WD40 superfamily;,0.0,NESdb:82 validNES:P125
+cand_D,CPEB1,Homo sapiens,Q9BZB8,85,SSRGLPDANDLCLGL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++*,SSRGLPDANDLCLGL,++++*,CCCCCCCCCCCCCCC,c1b-AT-4,DISO,MID|CEBP1_N;,0.0,NESdb:150 validNES:P180
+cand_D,CPEB1,Homo sapiens,Q9BZB8,91,DANDLCLGLQSLSLTG  &nbsp&nbsp&nbsp&nbsp++++*++*+*&nbsp&nbsp,DANDLCLGLQSLSLTG,++++*++*+*,CCCCCCCCCCCCCCCC,c1a-4,DISO,MID|CEBP1_N;,0.0,NESdb:150 validNES:P180
+cand_D,CPEB1,Homo sapiens,Q9BZB8,93,NDLCLGLQSLSLTG  &nbsp&nbsp++++*++*+*&nbsp&nbsp,NDLCLGLQSLSLTG,++++*++*+*,CCCCCCCCCCCCCC,c2-4,DISO,MID|CEBP1_N;,0.0,NESdb:150 validNES:P180
+cand_D,CPEB1,Homo sapiens,Q9BZB8,194,GSDHLSDLISSLRISP  &nbsp&nbsp&nbsp&nbsp++++*++*+*&nbsp&nbsp,GSDHLSDLISSLRISP,++++*++*+*,CCCCCHHHCCCCCCCC,c1a-4,DISO,MID|CEBP1_N;,0.0,NESdb:150 validNES:P180
+cand_D,CPEB3,Mus musculus,Q7TN99,343,DTFNLHSLENSLMDMI  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+++*&nbsp&nbsp&nbsp&nbsp,DTFNLHSLENSLMDMI,*+++*,CCCCCCCCCCCCCCCC,c1aR-5,DISO,,0.0,NESdb:251
+cand_D,CPEB3,Mus musculus,Q7TN99,346,NLHSLENSLMDMIR  &nbsp&nbsp&nbsp&nbsp*+++*&nbsp&nbsp&nbsp&nbsp&nbsp,NLHSLENSLMDMIR,*+++*,CCCCCCCCCCCCCC,c3-4,DISO,,0.0,NESdb:251
+cand_D,Crk,Homo sapiens,P46108,252,DKTALALEVGELVKVTK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp**&nbsp*&nbsp&nbsp,DKTALALEVGELVKVTK,** *,CCCCCCCCCCCEEEEEE,c1c-4,boundary,boundary|SH3_CRK_C;,0.125,NESdb:57
+cand_beta_D,Crk,Homo sapiens,P46108,260,VGELVKVTKINVSG  &nbsp&nbsp&nbsp**&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,VGELVKVTKINVSG,** *,CCCEEEEEEECCCC,c2-4,boundary,boundary|SH3_CRK_C;,1.0,NESdb:57
+cand_D,CTNND1,Homo sapiens,O60716-18,833,GQESLEEELDVLVLDD  &nbsp&nbsp++++++++++++++,GQESLEEELDVLVLDD,++++++++++++++,CCCCHHHHCCCCCCCC,c1a-4,DISO,,0.0,validNES:P005
+cand_D,Cyclin B1; ccnb1,Xenopus laevis,P13350,104,LPDELCQAFSDVLIHV  ........*.......,LPDELCQAFSDVLIHV,........*.......,CHHHHHHHHHHCCCCC,c1a-4,__,boundary|Cyclin_N2 superfamily;,0.0,NESdb:9 validNES:P022
+cand_D,Cyclin B1; CCNB1,Homo sapiens,P14635,138,AEEDLCQAFSDVILAV  &nbsp&nbsp&nbsp+++++*++*+*+*,AEEDLCQAFSDVILAV,+++++*++*+*+*,CHHHHHHHHHHCCCCC,c1a-4,__,boundary|Cyclin_N2 superfamily;,0.0,NESdb:12 validNES:P008
+cand_D,Cyclin B1; CCNB1,Homo sapiens,P14635,145,AFSDVILAVNDVDA  +*++*+*+*&nbsp&nbsp&nbsp&nbsp&nbsp,AFSDVILAVNDVDA,+*++*+*+*,HHHHCCCCCCCCCC,c3-4,boundary,boundary|Cyclin_N2 superfamily;,0.0,NESdb:12 validNES:P008
+cand_D,Cyclin D1,Homo sapiens,P24385,282,DLACTPTDVRDVDIXX  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,DLACTPTDVRDVDIXX,*  * *,CCCCCCCCCCCCCC,c1a-AT-5-Ct,DISO,boundary|Cyclin_C;,0.0,NESdb:54
+cand_D,Dab1,Mus musculus,P97318-2,146,AAEPVILDLRDLFQLIY  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++++&nbsp&nbsp,AAEPVILDLRDLFQLIY,+++++++++,CHHHHHHHHHHHHHHHH,c1c-4,boundary,boundary|PTB_Dab;,0.0,validNES:P101
+cand_D,Dab1,Mus musculus,P97318-2,150,VILDLRDLFQLIYE  &nbsp&nbsp+++++++++&nbsp&nbsp&nbsp,VILDLRDLFQLIYE,+++++++++,HHHHHHHHHHHHHH,c3-4,boundary,boundary|PTB_Dab;,0.0,validNES:P101
+cand_D,Dab1,Mus musculus,P97318-2,150,VILDLRDLFQLIYELK  &nbsp&nbsp+++++++++&nbsp&nbsp&nbsp&nbsp&nbsp,VILDLRDLFQLIYELK,+++++++++,HHHHHHHHHHHHHHHH,c1aR-5,boundary,boundary|PTB_Dab;,0.0,validNES:P101
+cand_D,Dab1,Mus musculus,P97318-2,458,DCDDFDISQLNLTP  &nbsp&nbsp&nbsp&nbsp++++++++&nbsp&nbsp,DCDDFDISQLNLTP,++++++++,CCCCCCCCCCCCCC,c2-4,DISO,boundary|DNA_pol3_gamma3 superfamily;,0.0,validNES:P101
+cand_D,DAB1,Mus musculus,P97318,146,AAEPVILDLRDLFQLIY  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,AAEPVILDLRDLFQLIY,* *   * *,CHHHHHHHHHHHHHHHH,c1c-4,boundary,boundary|PTB_Dab;,0.0,NESdb:168
+cand_D,DAB1,Mus musculus,P97318,150,VILDLRDLFQLIYE  &nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp,VILDLRDLFQLIYE,* *   * *,HHHHHHHHHHHHHH,c3-4,boundary,boundary|PTB_Dab;,0.0,NESdb:168
+cand_D,DAB1,Mus musculus,P97318,150,VILDLRDLFQLIYELK  &nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp,VILDLRDLFQLIYELK,* *   * *,HHHHHHHHHHHHHHHH,c1aR-5,boundary,boundary|PTB_Dab;,0.0,NESdb:168
+cand_D,DAB1,Mus musculus,P97318,458,DCDDFDISQLNLTP  &nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,DCDDFDISQLNLTP,* *  * *,CCCCCCCCCCCCCC,c2-4,DISO,boundary|DNA_pol3_gamma3 superfamily;,0.0,NESdb:168
+cand_D,DEAF1,Homo sapiens,O75398,452,SWLYLEEMVNSLLNTA  &nbsp+++++++++++++++,SWLYLEEMVNSLLNTA,+++++++++++++++,HHHHHHHHHHHHHHHH,c1aR-4,DISO,,0.0,validNES:P147
+cand_D,DEAF1,Homo sapiens,O75398,459,MVNSLLNTAQQLKT  ++++++++++++++,MVNSLLNTAQQLKT,++++++++++++++,HHHHHHHHHHHHHH,c3-AT,DISO,,0.0,validNES:P147
+cand_D,DEAF1,Homo sapiens,O75398,462,SLLNTAQQLKTLFE  ++++++++++++++,SLLNTAQQLKTLFE,++++++++++++++,HHHHHHHHHHHHHH,c3-AT,DISO,,0.0,validNES:P147
+cand_D,Dengue Virus NS5,Dengue Virus type 2,P14340,330,KPWDVVPMVTQMAMTD  ....**..*.......,KPWDVVPMVTQMAMTD,....**..*.......,CCCCCCCCEEEEEECC,c1a-4,boundary,MID|Flavi_NS5 superfamily;,0.429,NESdb:78
+cand_beta_D,Dengue Virus NS5,Dengue Virus type 2,P14340,334,VVPMVTQMAMTD  **..*.......,VVPMVTQMAMTD,**..*.......,CCCCEEEEEECC,c2-rev,boundary,MID|Flavi_NS5 superfamily;,0.833,NESdb:78
+cand_D,DGKζ,Rattus norvegicus,O08560,357,TVGWILSTLDQLRLKP  &nbsp&nbsp&nbsp&nbsp&nbsp*++*++*+*&nbsp&nbsp,TVGWILSTLDQLRLKP,*++*++*+*,CEEEECCHHHHCCCCC,c1a-5,boundary,MID|DAGKc;,0.143,NESdb:161 validNES:P171
+cand_D,DOK7,Homo sapiens,Q18PE1,227,VEERVAQEALETLQLEK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++,VEERVAQEALETLQLEK,++++,HHHHHHHHHHHHHHHCC,c1c-AT-4,DISO,boundary|PTB_DOK7;,0.0,validNES:P107
+cand_D,DOK7,Homo sapiens,Q18PE1,228,EERVAQEALETLQLEK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++,EERVAQEALETLQLEK,++++,HHHHHHHHHHHHHHCC,c1a-AT-4,DISO,boundary|PTB_DOK7;,0.0,validNES:P107
+cand_D,DOK7,Homo sapiens,Q18PE1,234,EALETLQLEKRLSLLS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++++++,EALETLQLEKRLSLLS,++++++++++,HHHHHHHHCCCCCCCC,c1d-AT-4,DISO,boundary|PTB_DOK7;,0.0,validNES:P107
+cand_D,Dpr1,Homo sapiens,Q9NYF0,128,QLQELDKQISDLRLDV  &nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,QLQELDKQISDLRLDV,*   *,HHHHHHHHCCCCCCCC,c1a-5,DISO,MID|Dapper;,0.0,NESdb:109
+cand_D,Dsk1,Schizosaccharomyces pombe,P36616,305,RFPSLEGAVSEISLRD  &nbsp&nbsp&nbsp+++++++++++++,RFPSLEGAVSEISLRD,+++++++++++++,CCCCCCCCCCCCCCCC,c1a-5,DISO,MID|STKc_SRPK;,0.0,NESdb:70
+cand_D,Dysbindin,Homo sapiens,Q96EV8,229,SSMEVNVDMLEQMDLMD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp,SSMEVNVDMLEQMDLMD,*,CCCCCCCCHHHHHCCCC,c1c-4,DISO,boundary|SMC_N superfamily; MID|Dysbindin;,0.0,NESdb:180
+cand_D,Dysbindin,Homo sapiens,Q96EV8,233,VNVDMLEQMDLMDISD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp,VNVDMLEQMDLMDISD,*  *,CCCCHHHHHCCCCCCC,c1a-4,DISO,boundary|SMC_N superfamily; MID|Dysbindin;,0.0,NESdb:180
+cand_D,E1B-55K,Human adenovirus C serotype 5,P03243,79,QVAELYPELRRILT  &nbsp&nbsp&nbsp&nbsp*+++*+++*+,QVAELYPELRRILT,*+++*+++*+,CCCCCCHHHHCCEE,c3-4,DISO,boundary|Adeno_E1B_55K;,0.0,NESdb:34 validNES:P025
+cand_D,E1B-55K,Human adenovirus C serotype 5,P03243,79,QVAELYPELRRILTITE  &nbsp&nbsp&nbsp&nbsp*+++*+++*++&nbsp&nbsp,QVAELYPELRRILTITE,*+++*+++*++,CCCCCCHHHHCCEEECC,c1c-5,DISO,boundary|Adeno_E1B_55K;,0.0,NESdb:34 validNES:P025
+cand_D,E2F-4,Homo sapiens,Q16254,57,RIYDITNVLEGIGLIE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++*+*&nbsp&nbsp,RIYDITNVLEGIGLIE,+++*+*,EEECCCCCCCCCCCEE,c1a-5,boundary,boundary|E2F_TDP;,0.0,NESdb:65 validNES:P071
+cand_D,E2F-4,Homo sapiens,Q16254,96,KLIELKAEIEELQQ  &nbsp**&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,KLIELKAEIEELQQ,**      *,HHHHHHHHHHHHHH,c3-4,boundary,boundary|E2F_TDP; boundary|E2F_DD;,0.0,NESdb:65 validNES:P071
+cand_O,E4-34kD,Human Adenovirus C,Q6VGT3,82,DMVLTREELVILRK  &nbsp+++++++*+*&nbsp&nbsp&nbsp,DMVLTREELVILRK,+++++++*+*,CCCCCHHHHHHHHC,c3-AT,ORD,,0.0,NESdb:17
+cand_D,Early E1A 32 kDa protein,Human adenovirus C serotype 5,P03255,70,VMLAVQEGIDLLTFPP  ++++*+++*+++&nbsp&nbsp&nbsp&nbsp,VMLAVQEGIDLLTFPP,++++*+++*+++,HHHHHHHCCCCCCCCC,c1a-5,DISO,MID|Adeno_E1A superfamily;,0.0,NESdb:99 validNES:P204
+cand_D,EDS1,Arabidopsis thaliana,Q9XF23,526,LGLQLEEIQETLKNSG  &nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LGLQLEEIQETLKNSG,*,CCCCHHHHHHHHCCCC,c1aR-4,DISO,,0.0,NESdb:164
+cand_D,ESE-1; ELF3,Homo sapiens,P78545,98,DGATLCNCALEELRLVF  &nbsp&nbsp&nbsp&nbsp+++++*++*++&nbsp&nbsp,DGATLCNCALEELRLVF,+++++*++*++,CCHHHHHCCHHHHHHHH,c1c-AT-4,boundary,boundary|SAM_PNT-ESE-1-like;,0.0,NESdb:232 validNES:P166
+cand_D,ESE-1; ELF3,Homo sapiens,P78545,271,RGTHLWEFIRDILIHP  &nbsp&nbsp&nbsp&nbsp++++*++*++&nbsp&nbsp,RGTHLWEFIRDILIHP,++++*++*++,CCCCHHHHHHHHHCCC,c1a-4,boundary,boundary|ETS;,0.0,NESdb:232 validNES:P166
+cand_D,ESR1,Homo sapiens,P03372,442,GEEFVCLKSIILLN  &nbsp&nbsp++++++++++++,GEEFVCLKSIILLN,++++++++++++,HHHHHHHHHHHHHC,c2-4,boundary,MID|NR_LBD_ER;,0.0,validNES:P184
+cand_D,Exd,Drosophila melanogaster,P40427,205,MVQIIHKKFSSIQMQL  &nbsp&nbsp&nbsp&nbsp*+++*++*+*&nbsp&nbsp,MVQIIHKKFSSIQMQL,*+++*++*+*,HHHHHHHHHHHHHHHH,c1a-5,DISO,boundary|PBC; boundary|homeodomain;,0.0,NESdb:66 validNES:P220
+cand_O,FAK,Homo sapiens,Q05397,73,DSHKVKHVACYGFRLSH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++,DSHKVKHVACYGFRLSH,++++,CCCCCCCCCCCEEEECC,c1c-AT-4,ORD,MID|B41;,0.125,NESdb:83
+cand_beta_O,FAK,Homo sapiens,Q05397,91,RSEEVHWLHVDMGVSS  ++++*++*+*++++&nbsp&nbsp,RSEEVHWLHVDMGVSS,++++*++*+*++++,CCCCEEEECCCCCHHH,c1d-4,ORD,MID|B41;,0.571,NESdb:83
+cand_O,FAK,Homo sapiens,Q05397,499,MELCTLGELRSFLQVRK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++,MELCTLGELRSFLQVRK,++++++,EEECCCCHHHHHHHHCC,c1c-AT-4,ORD,MID|PTKc_FAK;,0.0,NESdb:83
+cand_O,FAK,Homo sapiens,Q05397,514,RKYSLDLASLILYA  ++++*+*++*+*++,RKYSLDLASLILYA,++++*+*++*+*++,CCCCCCHHHHHHHH,c2-4,ORD,MID|PTKc_FAK;,0.0,NESdb:83
+cand_D,FANCA,Homo sapiens,O15360,60,LLLEVEGPLCKKLSLSK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,LLLEVEGPLCKKLSLSK,* *,HHHHHCCCCCCCCCCCC,c1c-5,DISO,,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,265,VTVDVLQRMLIFALDA  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,VTVDVLQRMLIFALDA,* *,HHHHHHHHHHHHHHHH,c1a-4,boundary,MID|Fanconi_A_N;,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,274,LIFALDALAAGVQEES  &nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LIFALDALAAGVQEES,* *,HHHHHHHHHHCCCCCC,c1aR-4,boundary,MID|Fanconi_A_N;,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,517,RLADLKVSIENMGLYE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,RLADLKVSIENMGLYE,* *,HHHHHHHCCCCCCCCC,c1a-5,boundary,boundary|Fanconi_A_N;,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,856,LCSCLSPGLIKKFQFLM  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,LCSCLSPGLIKKFQFLM,* *,HHHCCCHHHHHHHHHHH,c1c-4,boundary,,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,860,LSPGLIKKFQFLMFRL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp,LSPGLIKKFQFLMFRL,* *,CCHHHHHHHHHHHHHH,c1a-4,DISO,,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,864,LIKKFQFLMFRLFS  &nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LIKKFQFLMFRLFS,* *,HHHHHHHHHHHHHH,c2-5,DISO,,0.0,NESdb:112
+cand_D,FANCA,Homo sapiens,O15360,1017,IISRLQEMVADLELQQ  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,IISRLQEMVADLELQQ,* *,HHHHHHHHHHHHHCCC,c1a-5,boundary,,0.0,NESdb:112
+cand_O,Fbxo7,Homo sapiens,Q9Y3I1,322,QALNLPDVFGLVVLPL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*+*,QALNLPDVFGLVVLPL,*++*+*,HHCCCCCCCCCCCCCH,c1a-4,ORD,boundary|PI31_Prot_N superfamily;,0.0,NESdb:230
+cand_O,Fbxo7,Homo sapiens,Q9Y3I1,325,NLPDVFGLVVLP  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*+,NLPDVFGLVVLP,*++*+,CCCCCCCCCCCC,c2-rev,ORD,boundary|PI31_Prot_N superfamily;,0.0,NESdb:230
+cand_O,Fbxo7,Homo sapiens,Q9Y3I1,333,VVLPLELKLRIFRLLD  ++*+*+*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,VVLPLELKLRIFRLLD,++*+*+*+*,CCCCHHHHHHHHCCCC,c1a-5,ORD,boundary|PI31_Prot_N superfamily;,0.0,NESdb:230
+cand_D,Foxo1,Mus musculus,Q9WVH5,364,NPENMENLLDNLNLLS  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,NPENMENLLDNLNLLS,++++++++++,CCCCCHHCCCCCCCCC,c1a-4,DISO,,0.0,validNES:P216
+cand_D,Foxo1,Mus musculus,Q9WVH5,367,NMENLLDNLNLLSS  &nbsp++++++++++&nbsp&nbsp&nbsp,NMENLLDNLNLLSS,++++++++++,CCHHCCCCCCCCCC,c3-4,DISO,,0.0,validNES:P216
+cand_D,FOXO3,Homo sapiens,O43524,365,ELPRLTDMAGTMNLND  &nbsp&nbsp&nbsp&nbsp*++*+++*+*&nbsp&nbsp,ELPRLTDMAGTMNLND,*++*+++*+*,CCCCCCCCCCCCCCCC,c1a-AT-5,DISO,,0.0,NESdb:64 validNES:P068
+cand_D,FOXO3,Homo sapiens,O43524,374,GTMNLNDGLTENLMDDL  ++*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+++*,GTMNLNDGLTENLMDDL,++*+*       *+++*,CCCCCCCCCCCCCCCCC,c1cR-4,DISO,,0.0,NESdb:64 validNES:P068
+cand_D,FOXO3,Homo sapiens,O43524,382,LTENLMDDLLDNITLPP  &nbsp&nbsp&nbsp&nbsp*+++*+++*+*&nbsp&nbsp,LTENLMDDLLDNITLPP,*+++*+++*+*,CCCCCCCCCCCCCCCCC,c1c-4,DISO,,0.0,NESdb:64 validNES:P068
+cand_D,FOXO3,Homo sapiens,O43524,383,TENLMDDLLDNITLPP  &nbsp&nbsp&nbsp*+++*+++*+*&nbsp&nbsp,TENLMDDLLDNITLPP,*+++*+++*+*,CCCCCCCCCCCCCCCC,c1a-4,DISO,,0.0,NESdb:64 validNES:P068
+cand_D,Greatwall,Homo sapiens,Q96GX5,171,KLTDFGLSKVTLNR  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp,KLTDFGLSKVTLNR,*,EEEECCCCCCCCCC,c2-5,boundary,MID|STKc_MASTL;,0.143,NESdb:259
+cand_D,Greatwall,Homo sapiens,Q96GX5,178,SKVTLNRDINMMDILT  &nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,SKVTLNRDINMMDILT,*   *  * *,CCCCCCCCCCCCCCCC,c1a-4,boundary,MID|STKc_MASTL;,0.0,NESdb:259
+cand_D,Greatwall,Homo sapiens,Q96GX5,207,TPGQVLSLISSLGFNT  &nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,TPGQVLSLISSLGFNT,*  *  * *,CCCCCCCCCCCCCCCC,c1a-4,DISO,boundary|STKc_MASTL;,0.0,NESdb:259
+cand_O,HDAC1,Homo sapiens,Q13547,149,GFCYVNDIVLAILE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp,GFCYVNDIVLAILE,*  *,CCCHHHHHHHHHHH,c3-4,ORD,MID|HDAC1;,0.0,NESdb:252
+cand_O,HDAC1,Homo sapiens,Q13547,149,GFCYVNDIVLAILELLK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp*&nbsp,GFCYVNDIVLAILELLK,*  *  *,CCCHHHHHHHHHHHHHH,c1c-5,ORD,MID|HDAC1;,0.0,NESdb:252
+cand_O,HDAC1,Homo sapiens,Q13547,152,YVNDIVLAILELLK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp*&nbsp,YVNDIVLAILELLK,*  *  *,HHHHHHHHHHHHHH,c2-5,ORD,MID|HDAC1;,0.0,NESdb:252
+cand_O,HDAC1,Homo sapiens,Q13547,152,YVNDIVLAILELLK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp*&nbsp,YVNDIVLAILELLK,*  *  *,HHHHHHHHHHHHHH,c3-4,ORD,MID|HDAC1;,0.0,NESdb:252
+cand_D,HDAC4,Homo sapiens,P56524,1051,EEAETVTAMASLSVGV  +++++*++*++*+*+*,EEAETVTAMASLSVGV,+++++*++*++*+*+*,CHHHHHHHCCCCCCCC,c1a-AT-4,DISO,boundary|HDAC4;,0.0,NESdb:62 validNES:P070
+cand_D,HDAC4,Homo sapiens,P56524,1052,EAETVTAMASLSVGVKP  ++++*++*++*+*+*++,EAETVTAMASLSVGVKP,++++*++*++*+*+*++,HHHHHHHCCCCCCCCCC,c1c-AT-4,DISO,boundary|HDAC4;,0.0,NESdb:62 validNES:P070
+cand_D,HDM2,Homo sapiens,Q00987,185,KSDSISLSFDESLALCV  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++++*++,KSDSISLSFDESLALCV,++++++++*++,CCCCCCCCCCHHHHHHH,c1c-4,DISO,,0.0,NESdb:16
+cand_D,hMSH4,Homo sapiens,O15457,410,TVNAAESKITNLIYLKH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp**&nbsp*&nbsp&nbsp,TVNAAESKITNLIYLKH,** *,CCHHCCCCHHHHHHHHH,c1c-AT-5,boundary,MID|MutS;,0.0,NESdb:185
+cand_D,hMSH4,Homo sapiens,O15457,420,NLIYLKHTLELVDP  &nbsp**&nbsp*&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp,NLIYLKHTLELVDP,** *   * *,HHHHHHHHHHHHHH,c3-4,boundary,MID|MutS;,0.0,NESdb:185
+cand_O,hMSH4,Homo sapiens,O15457,786,AFTLFATHFLELCH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp,AFTLFATHFLELCH,*,CEEEEECCCHHHHH,c3-4,ORD,MID|MutS;,0.429,NESdb:185
+cand_D,hMSH5,Homo sapiens,O43196,798,NCQTLVDKFMKLDLED  &nbsp&nbsp&nbsp&nbsp*+++*++*+*&nbsp&nbsp,NCQTLVDKFMKLDLED,*+++*++*+*,HHHHHHHHHHCCCCCC,c1a-4,DISO,boundary|MutS; boundary|ABC_MSH5_euk;,0.0,NESdb:177 validNES:P168
+cand_D,HPV11 E1,Human papillomavirus type 11,P04014,102,VESEISPRLDAIKLTT  &nbsp&nbsp&nbsp&nbsp++++*++*++&nbsp&nbsp,VESEISPRLDAIKLTT,++++*++*++,CCCCCCCCCCEEECCC,c1a-4,DISO,MID|PHA02774;,0.143,NESdb:140
+cand_D,hRpf1/Nedd4,Homo sapiens,P46934,293,VPTHLAEELNARLTIFG  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,VPTHLAEELNARLTIFG,* *,CCCCHHHHCCCCCCCCC,c1c-4,DISO,,0.0,NESdb:44
+cand_beta_D,Hsc70/Hsc54; HSPA8,Homo sapiens,P11142,384,KSENVQDLLLLDVTP  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+*++,KSENVQDLLLLDVTP,*+*++,CCCCCCCEEEEECCC,c1b-4,boundary,MID|HSP70 superfamily;,0.571,NESdb:67 validNES:P084
+cand_D,HsfA2/HSF30,Solanum peruvianum,P41152,319,EQPEFDVEVEDLVVKT  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++,EQPEFDVEVEDLVVKT,+++++++,CCCCCCCCCCCCCCCC,c1a-4,DISO,,0.0,NESdb:26 validNES:P016
+cand_D,HsfA2/HSF30,Solanum peruvianum,P41152,321,PEFDVEVEDLVVKT  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++,PEFDVEVEDLVVKT,+++++++,CCCCCCCCCCCCCC,c2-4,DISO,,0.0,NESdb:26 validNES:P016
+cand_D,HsfA2/HSF30,Solanum peruvianum,P41152,337,WGEELQDLVDQLGFLX  +++++++*+++*++*&nbsp,WGEELQDLVDQLGFLX,+++++++*+++*++*,CCCCHHHHHHHCCCC,c1a-4,DISO,,0.0,NESdb:26 validNES:P016
+cand_D,HsfA2/HSF30,Solanum peruvianum,P41152,340,ELQDLVDQLGFLXX  ++++*+++*++*&nbsp&nbsp,ELQDLVDQLGFLXX,++++*+++*++*,CHHHHHHHCCCC,c3-4-Ct,DISO,,0.0,NESdb:26 validNES:P016
+cand_D,Hsp105; Hsph1,Mus musculus,Q61699,603,LVWQLGRDLLNMYIET  &nbsp&nbsp&nbsp&nbsp*+++*++*+*+&nbsp,LVWQLGRDLLNMYIET,*+++*++*+*+,ECCCCCHHHHHHHHHH,c1a-5,boundary,boundary|SPOR superfamily;,0.0,NESdb:215 validNES:P110
+cand_D,Hsp70-Ssb1p,Saccharomyces cerevisiae,P11484,574,IEAALSDALAALQIED  ++++++++++++++&nbsp&nbsp,IEAALSDALAALQIED,++++++++++++++,HHHHHHHHHHHHHHCC,c1a-4,boundary,boundary|HSP70 superfamily;,0.0,NESdb:29
+cand_D,Hst2,Saccharomyces cerevisiae,P53686,304,QLLEIVHDLENLSLDQ  ...........*.*..,QLLEIVHDLENLSLDQ,...........*.*..,HHHHHHCCCCCCCCCC,c1a-5,DISO,boundary|SIRT1;,0.0,NESdb:212 validNES:P144
+cand_O,hTERT,Homo sapiens,O14746,966,AGRNMRRKLFGVLRLKC  ........*...*.*..,AGRNMRRKLFGVLRLKC,........*...*.*..,HHHHHHHHHHHHHHHCC,c1c-4,ORD,boundary|TERT;,0.0,NESdb:53 validNES:P049
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,1,XMATLEKLMKAFES  &nbsp+++*+++*++*+*,XMATLEKLMKAFES,+++*+++*++*+*,CHHHHHHHHHHHHH,c3-4-Nt,DISO,,0.0,NESdb:204 validNES:P097
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,3,TLEKLMKAFESLKS  +*+++*++*+*++*,TLEKLMKAFESLKS,+*+++*++*+*++*,HHHHHHHHHHHHHH,c3-4,DISO,,0.0,NESdb:204 validNES:P097
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,2357,YITAACEMVAEMVE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++,YITAACEMVAEMVE,+++++++,HHHHHHHHHHHHHH,c3-AT,DISO,,0.0,NESdb:204 validNES:P097
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,2364,MVAEMVESLQSVLA  ++++++++++++++,MVAEMVESLQSVLA,++++++++++++++,HHHHHHHHHHHHHH,c3-4,DISO,,0.0,NESdb:204 validNES:P097
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,2364,MVAEMVESLQSVLALGH  +++++++++++++++++,MVAEMVESLQSVLALGH,+++++++++++++++++,HHHHHHHHHHHHHHCCC,c1c-5,DISO,,0.0,NESdb:204 validNES:P097
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,2385,GVPAFLTPLLRNIIISL  +++++++++++++++++,GVPAFLTPLLRNIIISL,+++++++++++++++++,CCCCCHHHHHHHHHHHH,c1c-5,boundary,,0.0,NESdb:204 validNES:P097
+cand_D,Huntingtin; HTT,Homo sapiens,P42858,2386,VPAFLTPLLRNIIISL  ++++++++++++++++,VPAFLTPLLRNIIISL,++++++++++++++++,CCCCHHHHHHHHHHHH,c1a-4,boundary,,0.0,NESdb:204 validNES:P097
+cand_D,Hxk2,Saccharomyces cerevisiae,P04807,23,LMQQIENFEKIFTVPT  *&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp,LMQQIENFEKIFTVPT,*   *  *  *,HHHHHHHHHHHCCCCH,c1d-5,boundary,boundary|COG5026;,0.0,NESdb:120
+cand_D,Hxk2,Saccharomyces cerevisiae,P04807,310,LGEILRLALMDMYK  *&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp,LGEILRLALMDMYK,*  *  * *,HHHHHHHHHHHHHH,c2-4,boundary,MID|COG5026;,0.0,NESdb:120
+cand_beta_D,β-Arrestin-2,Rattus norvegicus,P29067,384,DDDIVFEDFARLRLKG  &nbsp+++*+++*++*+*++,DDDIVFEDFARLRLKG,+++*+++*++*+*++,CCCEEEEECCCCCCCC,c1a-4,DISO,boundary|Arrestin_C;,0.571,NESdb:241
+cand_D,γ134.5 Protein (HSV-1); RL1,Human herpesvirus 1,P08353,124,RPFRLPPRLALRLRVTA  &nbsp&nbsp&nbsp&nbsp++++++*+*+&nbsp&nbsp&nbsp,RPFRLPPRLALRLRVTA,++++++*+*+,CCCCCCHHHHHHHCCCH,c1c-4,DISO,,0.0,NESdb:81 validNES:P083
+cand_D,Id1,Mus musculus,P20067,87,ILQHVIDYIRDLQLEL  &nbsp&nbsp&nbsp&nbsp++++*++*+***,ILQHVIDYIRDLQLEL,++++*++*+***,HHHHHHHHHHHHHHHH,c1a-5,boundary,,0.0,NESdb:105 validNES:P090
+cand_D,Id2,Mus musculus,P41136,102,PLTTLNTDISILSLQA  &nbsp+++++++*++++*++,PLTTLNTDISILSLQA,+++++++*++++*++,CCCCCCCCCCCCCCCC,c1a-5,DISO,,0.0,NESdb:106
+cand_D,IκBα; NFKBIA,Homo sapiens,P25963,41,EYEQMVKELQEIRLEP  ....**..*..*.*..,EYEQMVKELQEIRLEP,....**..*..*.*..,CCHHHHHHHHHCCCCC,c1a-4,DISO,boundary|Ank_2 superfamily;,0.0,NESdb:37 validNES:P028
+cand_D,IκBα; NFKBIA,Homo sapiens,P25963,261,PSTRIQQQLGQLTLEN  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,PSTRIQQQLGQLTLEN,*  * *,CCHHHHHHHHHCCCCC,c1a-4,boundary,boundary|ANK;,0.0,NESdb:37 validNES:P028
+cand_D,IκBα; NFKBIA,Homo sapiens,P25963,268,QLGQLTLENLQMLP  &nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,QLGQLTLENLQMLP,*  * *  *,HHHHCCCCCCCCCC,c2-5,boundary,boundary|ANK;,0.0,NESdb:37 validNES:P028
+cand_D,IκBε; NFKBIE,Homo sapiens,O00221,478,EESLVLLPFDDLKISG  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++*+*&nbsp&nbsp,EESLVLLPFDDLKISG,+++*+*,HHCCCCCCHHHHHHCC,c1a-4,DISO,boundary|ANK;,0.0,NESdb:51 validNES:P047
+cand_D,IκBε; NFKBIE,Homo sapiens,O00221,480,SLVLLPFDDLKISG  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++*+*&nbsp&nbsp,SLVLLPFDDLKISG,+++*+*,CCCCCCHHHHHHCC,c2-5,DISO,boundary|ANK;,0.0,NESdb:51 validNES:P047
+cand_D,λPKC; Prkci,Mus musculus,Q62074,244,ASSSLGLQDFDLLR  ......+++*+*.&nbsp,ASSSLGLQDFDLLR,......+++*+*.,CCCCCCCCCCCEEE,c2-4,boundary,boundary|STKc_aPKC_iota;,0.0,NESdb:42 validNES:P034
+cand_beta_D,IPMK,Homo sapiens,Q8NFU5,170,LMEEIGFLVLGMRVYH  ++++*++*+*++++++,LMEEIGFLVLGMRVYH,++++*++*+*++++++,CCCCCCEEEEEEEEEE,c1a-5,boundary,MID|IPK;,0.714,NESdb:253 validNES:P212
+cand_D,IRF-3,Homo sapiens,Q14653,135,TQEDILDELLGNMVLAP  &nbsp+++++++++++++++&nbsp,TQEDILDELLGNMVLAP,+++++++++++++++,CCCCHHHHHHCCCCCCC,c1c-4,DISO,boundary|IRF;,0.0,NESdb:38 validNES:P030
+cand_D,IRF-3,Homo sapiens,Q14653,136,QEDILDELLGNMVLAP  +++++++++++++++&nbsp,QEDILDELLGNMVLAP,+++++++++++++++,CCCHHHHHHCCCCCCC,c1a-4,DISO,boundary|IRF;,0.0,NESdb:38 validNES:P030
+cand_D,ITPKB,Homo sapiens,P27987,130,KLRILQRELQNVQVNQ  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,KLRILQRELQNVQVNQ,++++++++++,HHHHHHHHHCCCCCCC,c1a-5,DISO,MID|Atrophin-1 superfamily;,0.0,validNES:P221
+cand_D,KANK1,Homo sapiens,Q14678,602,TGSNTEESVNDLTLLK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++,TGSNTEESVNDLTLLK,+++++,CCCCCCEEECCCCHHC,c1a-AT-4,DISO,,0.429,validNES:P105
+cand_D,KANK1,Homo sapiens,Q14678,609,SVNDLTLLKTNLNLKE  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,SVNDLTLLKTNLNLKE,++++++++++,EECCCCHHCCCCCCCC,c1d-5,DISO,,0.0,validNES:P105
+cand_D,KANK1,Homo sapiens,Q14678,614,TLLKTNLNLKEVRS  +++++++++&nbsp&nbsp&nbsp&nbsp&nbsp,TLLKTNLNLKEVRS,+++++++++,CHHCCCCCCCCEEE,c3-AT,DISO,,0.0,validNES:P105
+cand_D,Keap1,Homo sapiens,Q14145,297,CKDYLVKIFEELTLHK  ....*..*...*.*..,CKDYLVKIFEELTLHK,....*..*...*.*..,HHHHHHHHHHHHCCCC,c1a-4,boundary,MID|BTB superfamily;,0.0,NESdb:187 validNES:P103
+cand_D,KLF5,Mus musculus,Q9Z0Z7,108,VVDQFFTDTEGIPY  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++,VVDQFFTDTEGIPY,+++,CCCCCCCCCCCCCC,c3-AT,DISO,,0.0,NESdb:115 validNES:P181
+cand_D,KLF5,Mus musculus,Q9Z0Z7,115,DTEGIPYSINMNVFLPD  &nbsp&nbsp&nbsp&nbsp++++++++*+*++,DTEGIPYSINMNVFLPD,++++++++*+*++,CCCCCCCCEEECCCCCC,c1c-4,DISO,,0.375,NESdb:115 validNES:P181
+cand_D,KLF5,Mus musculus,Q9Z0Z7,121,YSINMNVFLPDITHLR  ++++++*+*+++++++,YSINMNVFLPDITHLR,++++++*+*+++++++,CCEEECCCCCCCCCCC,c1aR-5,DISO,,0.143,NESdb:115 validNES:P181
+cand_D,KLF5,Mus musculus,Q9Z0Z7,124,NMNVFLPDITHLRT  +++*+*++++++++,NMNVFLPDITHLRT,+++*+*++++++++,EECCCCCCCCCCCC,c3-4,DISO,,0.0,NESdb:115 validNES:P181
+cand_D,KLF6,Homo sapiens,Q99612,2,DVLPMCSIFQELQIVH  +*++*+++*++*+*+&nbsp,DVLPMCSIFQELQIVH,+*++*+++*++*+*+,CCCCCHHHHHHHHHHH,c1a-5,DISO,,0.0,NESdb:162 validNES:P175
+cand_beta_D,LANA2,Human herpesvirus 8,Q99AM3,547,EQFDMVPLVIKLRLRS  &nbsp&nbsp&nbsp&nbsp*+++++++++&nbsp&nbsp,EQFDMVPLVIKLRLRS,*+++++++++,CCCCCCCEEEEEEEEE,c1a-4,boundary,,0.571,NESdb:218 validNES:P134
+cand_beta_D,LANA2,Human herpesvirus 8,Q99AM3,551,MVPLVIKLRLRS  *+++++++++&nbsp&nbsp,MVPLVIKLRLRS,*+++++++++,CCCEEEEEEEEE,c2-rev,boundary,,1.0,NESdb:218 validNES:P134
+cand_D,LCD1,Saccharomyces cerevisiae,Q04377,662,DHRHLVDSLHDLTIKD  ........*..*....,DHRHLVDSLHDLTIKD,........*..*....,HHHHHCCCCCCCCHHH,c1a-4,boundary,MID|LCD1;,0.0,NESdb:49 validNES:P044
+cand_D,LEI/L-DNase II,Mus musculus,P30740,280,ESYTLNSDLARLGVQD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,ESYTLNSDLARLGVQD,*  * *,CCCCCHHHHHHCCCCC,c1a-4,boundary,MID|SERPIN superfamily;,0.0,NESdb:155
+cand_O,Lgals3,Mus musculus,P16110,238,RMKNLREISQLGISG  &nbsp&nbsp&nbsp++++++++++++,RMKNLREISQLGISG,++++++++++++,CCCCCCCCCEEEEEC,c1b-5,ORD,boundary|Gal-bind_lectin;,0.286,validNES:P086
+cand_D,Liar,Mus musculus,A7YB12,278,EVTDLLASFTSLSLQM  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,EVTDLLASFTSLSLQM,* *,HHHHHHHCCCCCCCCC,c1a-5,DISO,,0.0,NESdb:116
+cand_D,LPP,Homo sapiens,Q93052,120,EIDSLTSILADLEC  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp,EIDSLTSILADLEC,*,CCCCCCCCCCCCCC,c3-4,DISO,MID|Atrophin-1 superfamily;,0.0,NESdb:138
+cand_D,Ltv1,Saccharomyces cerevisiae,P34078,172,VLEALEDEAYVVND  ++++++++++++++,VLEALEDEAYVVND,++++++++++++++,HHHHHHHCCCCCCC,c3-AT,DISO,MID|LTV;,0.0,NESdb:74 validNES:P152
+cand_D,LZTS2,Homo sapiens,Q9BRK4,627,RNRQLEQELQQLSLEL  &nbsp&nbsp&nbsp&nbsp+++++++*+*++,RNRQLEQELQQLSLEL,+++++++*+*++,HHHHHHHHHHHHHHHH,c1a-4,DISO,boundary|Fez1;,0.0,NESdb:181 validNES:P120
+cand_D,M1,Influenza B virus,Q0PLR1,1,XMSLFGDTIAYLLS  &nbsp&nbsp&nbsp+++++++++*+,XMSLFGDTIAYLLS,+++++++++*+,CCCCHHHHHHHHHH,c3-4-Nt,boundary,boundary|Flu_M1;,0.0,NESdb:255
+cand_D,M1,Influenza B virus,Q0PLR1,1,XMSLFGDTIAYLLSLIE  &nbsp&nbsp&nbsp+++++++++*+*&nbsp&nbsp,XMSLFGDTIAYLLSLIE,+++++++++*+*,CCCCHHHHHHHHHHCCC,c1c-5-Nt,boundary,boundary|Flu_M1;,0.0,NESdb:255
+cand_D,M1,Influenza B virus,Q0PLR1,120,ESSALLYCLMVMYLNP  &nbsp&nbsp&nbsp&nbsp+++++++*+*&nbsp&nbsp,ESSALLYCLMVMYLNP,+++++++*+*,CCHHHHHHHHHHHCCC,c1a-4,boundary,MID|Flu_M1;,0.0,NESdb:255
+cand_D,Mad1p,Saccharomyces cerevisiae,P40957,554,ELSKAQTTIQLLQE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++,ELSKAQTTIQLLQE,+++++,HHHHHHHHHHHHHH,c3-AT,boundary,MID|SMC_N superfamily;,0.0,NESdb:104
+cand_D,Mad1p,Saccharomyces cerevisiae,P40957,561,TIQLLQEKLEKLTK  &nbsp&nbsp++++++*+++++,TIQLLQEKLEKLTK,++++++*+++++,HHHHHHHHHHHHHC,c3-4,boundary,MID|SMC_N superfamily;,0.0,NESdb:104
+cand_O,MALT1,Homo sapiens,Q9UDY8,365,DVYELTNLLRQLDFKV  &nbsp&nbsp&nbsp&nbsp++++++++&nbsp&nbsp&nbsp&nbsp,DVYELTNLLRQLDFKV,++++++++,HHHHHHHHHHHCCCEE,c1a-5,ORD,MID|Peptidase_C14;,0.0,validNES:P198
+cand_D,MALT1,Homo sapiens,Q9UDY8,473,TIPILDALKVTA  &nbsp+++++++&nbsp&nbsp&nbsp&nbsp,TIPILDALKVTA,+++++++,CCCCCCCCCCCC,c2-rev,boundary,MID|Peptidase_C14;,0.0,validNES:P198
+cand_D,MAPKAP kinase 2 (MK2); Mapkapk2,Mus musculus,P49138,338,VKEEMTSALATMRVDY  ++++++++*+++++++,VKEEMTSALATMRVDY,++++++++*+++++++,HHHHHHHHHHHHCCCC,c1a-4,DISO,boundary|STKc_MAPKAPK2;,0.0,NESdb:20 validNES:P006
+cand_D,Mcm3,Saccharomyces cerevisiae,P24279,830,EEAELQRRLQLGLRVSP  ....*...*.*.*....,EEAELQRRLQLGLRVSP,....*...*.*.*....,HHHHHHHHHHCCCCCCC,c1c-4,DISO,,0.0,NESdb:100
+cand_D,Menin,Homo sapiens,O00255,30,EEPDLVLLSLVLGF  &nbsp&nbsp&nbsp++++++*+*&nbsp&nbsp,EEPDLVLLSLVLGF,++++++*+*,CCCCHHHHHHHHHH,c2-4,boundary,MID|Menin;,0.0,NESdb:119
+cand_D,Menin,Homo sapiens,O00255,32,PDLVLLSLVLGFVEHF  &nbsp++++++*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,PDLVLLSLVLGFVEHF,++++++*+*,CCHHHHHHHHHHHHHH,c1aR-4,boundary,MID|Menin;,0.0,NESdb:119
+cand_D,Menin,Homo sapiens,O00255,33,DLVLLSLVLGFVEH  ++++++*+*&nbsp&nbsp&nbsp&nbsp&nbsp,DLVLLSLVLGFVEH,++++++*+*,CHHHHHHHHHHHHH,c3-4,boundary,MID|Menin;,0.0,NESdb:119
+cand_D,Menin,Homo sapiens,O00255,33,DLVLLSLVLGFVEHFL  ++++++*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,DLVLLSLVLGFVEHFL,++++++*+*,CHHHHHHHHHHHHHHC,c1aR-5,boundary,MID|Menin;,0.0,NESdb:119
+cand_D,Menin,Homo sapiens,O00255,37,LSLVLGFVEHFLAVNR  ++*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LSLVLGFVEHFLAVNR,++*+*,HHHHHHHHHHHCCCCC,c1aR-4,boundary,MID|Menin;,0.0,NESdb:119
+cand_D,Menin,Homo sapiens,O00255,252,DSLELLQLQQKLLWLL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++++**,DSLELLQLQQKLLWLL,++++++++**,CCHHHHHHHHHHHHHH,c1aR-5,boundary,MID|Menin;,0.0,NESdb:119
+cand_D,Mia1p/Alp7p,Schizosaccharomyces pombe,Q9URY2,450,ERQQLIQMSEDLVIAM  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+*++,ERQQLIQMSEDLVIAM,*+*++,HHHHHHHHHHHHHHHH,c1d-4,DISO,boundary|SMC_N superfamily;,0.0,NESdb:159
+cand_D,Mia1p/Alp7p,Schizosaccharomyces pombe,Q9URY2,457,MSEDLVIAMDQLNLEQ  &nbsp&nbsp&nbsp&nbsp*+*++++*+*&nbsp&nbsp,MSEDLVIAMDQLNLEQ,*+*++++*+*,HHHHHHHHHHHHHHHH,c1a-4,DISO,boundary|SMC_N superfamily;,0.0,NESdb:159
+cand_D,Mia1p/Alp7p,Schizosaccharomyces pombe,Q9URY2,459,EDLVIAMDQLNLEQ  &nbsp&nbsp*+*++++*+*&nbsp&nbsp,EDLVIAMDQLNLEQ,*+*++++*+*,HHHHHHHHHHHHHH,c2-4,DISO,boundary|SMC_N superfamily;,0.0,NESdb:159
+cand_D,MIER1,Homo sapiens,Q8N108-13,1,XMFMFNWFTDCLWT  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++,XMFMFNWFTDCLWT,+++++++,CCHHHHHHHHHHHH,c3-AT-Nt,DISO,,0.0,validNES:P214
+cand_D,MK5,Mus musculus,O54992,336,QLANMRIQDLKVSL  &nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp*,QLANMRIQDLKVSL,*       *   *,HHHHHHHHHHHHCC,c2-5,DISO,boundary|STKc_MAPKAPK5;,0.0,NESdb:165
+cand_D,MK5,Mus musculus,O54992,338,ANMRIQDLKVSLKPLH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp,ANMRIQDLKVSLKPLH,*   *  *,HHHHHHHHHHCCCCCC,c1aR-5,DISO,boundary|STKc_MAPKAPK5;,0.0,NESdb:165
+cand_D,MKP-3,Homo sapiens,Q16828,161,PLPVLGLGGLRISS  ++++++*++*++++,PLPVLGLGGLRISS,++++++*++*++++,CCCCCCCCCCCCCC,c2-5,DISO,boundary|DSP_MapKP;,0.0,NESdb:163
+cand_D,MKP-7; DUSP16,Homo sapiens,Q9BY84,372,EDSPLVQALSGLHLSA  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*+*&nbsp&nbsp,EDSPLVQALSGLHLSA,*++*+*,CCCHHHHCCCCCCCCC,c1a-4,DISO,MID|DUF4643 superfamily;,0.0,NESdb:41 validNES:P033
+cand_D,MLH1,Homo sapiens,P40692,579,PAPLFDLAMLALDS  &nbsp&nbsp&nbsp*++*++*+*+&nbsp,PAPLFDLAMLALDS,*++*++*+*+,CCCHHHHHHHHCCC,c2-4,boundary,MID|Mlh1_C;,0.0,NESdb:186
+cand_O,MoKA; Fbxo38,Mus musculus,Q8BMI0,183,LKIPIGAKIQTLHLVG  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+*++,LKIPIGAKIQTLHLVG,*+*++,CCCCCCCCEEEEEEEC,c1a-4,ORD,,0.429,NESdb:202 validNES:P197
+cand_beta_O,MoKA; Fbxo38,Mus musculus,Q8BMI0,190,KIQTLHLVGVNVPE  &nbsp&nbsp&nbsp&nbsp*+*+++++&nbsp&nbsp,KIQTLHLVGVNVPE,*+*+++++,CEEEEEEECCCCCC,c2-5,ORD,,0.714,NESdb:202 validNES:P197
+cand_D,MondoA,Homo sapiens,Q9HAP2,122,IDASLTKLFECMTLAY  &nbsp&nbsp++*++++++*++++,IDASLTKLFECMTLAY,++*++++++*++++,CCHHHHHHHHHHEEEC,c1a-4,__,,0.0,NESdb:130
+cand_D,mPER1,Mus musculus,O35973,485,DIQELSEQIHRLLLQP  ++++++++*++*+*&nbsp&nbsp,DIQELSEQIHRLLLQP,++++++++*++*+*,HHHHHHHHHHHHHCCC,c1a-5,DISO,boundary|PAS_3;,0.0,NESdb:30 validNES:P023
+cand_D,mPER2,Mus musculus,O54943,456,SVQELTEQIHRLLMQP  ........*..*.*&nbsp&nbsp,SVQELTEQIHRLLMQP,........*..*.*,HHHHHHHHHHHHHCCC,c1a-5,DISO,boundary|PAS_3; boundary|FtsK superfamily;,0.0,NESdb:31 validNES:P054
+cand_D,Mps1,Homo sapiens,P33981,176,PLEMLEIALRNLNLQK  &nbsp&nbsp&nbsp&nbsp+++++++*+*&nbsp&nbsp,PLEMLEIALRNLNLQK,+++++++*+*,CHHHHHHHHHHHHHCC,c1a-5,boundary,,0.0,NESdb:263
+cand_D,Mst1; STK4,Homo sapiens,Q13043,357,HDDTLPSQLGTMVINA  ........+++*+*..,HDDTLPSQLGTMVINA,........+++*+*..,CCCCCCCCCCCEEECC,c1a-4,DISO,,0.0,NESdb:68 validNES:P073
+cand_D,Mta; ORFNames=BMLF1,Epstein-Barr virus,Q04360,211,FDMSLVKPVSKITFVT  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++**,FDMSLVKPVSKITFVT,+++++++**,CCCCCCCCCCCCCCCC,c1a-4,DISO,,0.0,NESdb:71 validNES:P075
+cand_D,Mta; ORFNames=BMLF1,Epstein-Barr virus,Q04360,223,TFVTLPSPLASLTLEP  ++***++++++***&nbsp&nbsp,TFVTLPSPLASLTLEP,++***++++++***,CCCCCCCCCCCCCCCC,c1a-5,DISO,boundary|Herpes_UL69;,0.0,NESdb:71 validNES:P075
+cand_D,MTF-1,Homo sapiens,Q14872,332,TNHSLCLSDLSLLS  &nbsp&nbsp&nbsp&nbsp++*++*+**&nbsp,TNHSLCLSDLSLLS,++*++*+**,CCCCCCCCCCCCCC,c2-4,DISO,,0.0,NESdb:28 validNES:P019
+cand_D,MTOR,Homo sapiens,P42345,531,LKKDIQDGLLKMLSLVL  &nbsp&nbsp&nbsp&nbsp+++++++++++++,LKKDIQDGLLKMLSLVL,+++++++++++++,CHHHHHHHHHHHHHHHH,c1c-4,boundary,MID|TEL1;,0.0,validNES:P096
+cand_D,MTOR,Homo sapiens,P42345,535,IQDGLLKMLSLVLMHK  +++++++++++++&nbsp&nbsp&nbsp,IQDGLLKMLSLVLMHK,+++++++++++++,HHHHHHHHHHHHHCCC,c1a-4,boundary,MID|TEL1;,0.0,validNES:P096
+cand_D,MTOR,Homo sapiens,P42345,536,QDGLLKMLSLVLMH  ++++++++++++&nbsp&nbsp,QDGLLKMLSLVLMH,++++++++++++,HHHHHHHHHHHHCC,c2-4,boundary,MID|TEL1;,0.0,validNES:P096
+cand_D,MTOR,Homo sapiens,P42345,541,KMLSLVLMHKPLRHPG  +++++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,KMLSLVLMHKPLRHPG,+++++++,HHHHHHHCCCCCCCCC,c1aR-4,boundary,MID|TEL1;,0.0,validNES:P096
+cand_D,MTOR,Homo sapiens,P42345,971,VVQAITFIFKSLGLKC  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,VVQAITFIFKSLGLKC,++++++++++,HHHHHHHHHHHCCCCC,c1a-5,boundary,MID|TEL1;,0.0,validNES:P096
+cand_D,MTOR,Homo sapiens,P42345,1277,KDDWLEWLRRLSLEL  &nbsp&nbsp&nbsp&nbsp+++++++++&nbsp&nbsp,KDDWLEWLRRLSLEL,+++++++++,HHHHHHHHHHHHHHH,c1b-4,boundary,MID|TEL1;,0.0,validNES:P096
+cand_D,NADE; Ngfrap1,Mus musculus,Q9WTZ9,86,EMREIRRKLRELQLRN  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*++&nbsp&nbsp,EMREIRRKLRELQLRN,*++*++,HHHHHHHHHHHHHHHH,c1a-5,DISO,boundary|BEX superfamily;,0.0,NESdb:48 validNES:P043
+cand_D,NANOG,Homo sapiens,Q9H9S0,121,SLQQMQELSNILNLSY  &nbsp&nbsp&nbsp&nbsp+++*+++*+*&nbsp&nbsp,SLQQMQELSNILNLSY,+++*+++*+*,CHHHHHHHHHHCCCCH,c1d-5,DISO,MID|Abdominal-A superfamily; boundary|HOX;,0.0,NESdb:224 validNES:P206
+cand_D,Nap1p,Saccharomyces cerevisiae,P25293,95,KLLSLKTLQSELFEVE  .**.*..*........,KLLSLKTLQSELFEVE,.**.*..*........,HHHHHHHHHHHHHHHH,c1aR-5,boundary,boundary|NAP;,0.0,NESdb:254
+cand_D,NC2β; DR1,Homo sapiens,Q01658,67,SPEHVIQALESLGFGS  +++++++++++*+*++,SPEHVIQALESLGFGS,+++++++++++*+*++,CHHHHHHHHHHCCCCC,c1a-4,boundary,MID|H4 superfamily;,0.0,NESdb:126 validNES:P179
+cand_D,NEDD4,Homo sapiens,P46934-4,293,VPTHLAEELNARLTIFG  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++&nbsp&nbsp,VPTHLAEELNARLTIFG,+++++++,CCCCHHHHCCCCCCCCC,c1c-4,DISO,,0.0,validNES:P037
+cand_D,NEP,Influenza A virus,C3W5S6,8,SFQDILMRMSKMQLGS  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,SFQDILMRMSKMQLGS,++++++++++,HHHHHHHHHHHHHCCC,c1a-5,DISO,boundary|Flu_NS2 superfamily;,0.0,NESdb:256
+cand_D,NEP,Influenza A virus,C3W5S6,27,DLNGMVTRFESLKIYR  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,DLNGMVTRFESLKIYR,++++++++++,CCCCHHHHHHHHHHHH,c1a-5,DISO,boundary|Flu_NS2 superfamily;,0.0,NESdb:256
+cand_D,Neurogenin 3,Mus musculus,P70661,128,AHNYIWALTQTLRIAD  &nbsp&nbsp&nbsp++++*+++++++&nbsp,AHNYIWALTQTLRIAD,++++*+++++++,HHHHHHHHHHHHHHHC,c1a-AT-4,DISO,boundary|HLH;,0.0,NESdb:243
+cand_D,NFE2L2,Homo sapiens,Q16236-2,167,DIEQVWEELLSIPE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++,DIEQVWEELLSIPE,++++++,CHHHHHHHHHCCCC,c3-4,DISO,,0.0,validNES:P106
+cand_D,NFE2L2,Homo sapiens,Q16236-2,177,SIPELQCLNIEN  ++++++++++&nbsp&nbsp,SIPELQCLNIEN,++++++++++,CCCCCCCCCCCC,c2-rev,DISO,,0.0,validNES:P106
+cand_D,NFE2L2,Homo sapiens,Q16236-2,533,SLHLLKKQLSTLYLEV  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,SLHLLKKQLSTLYLEV,++++++++++,HHHHHHHHHHHHHHHH,c1a-5,DISO,boundary|bZIP_NFE2-like;,0.0,validNES:P106
+cand_D,NFE2L2,Homo sapiens,Q16236-2,540,QLSTLYLEVFSMLR  +++++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,QLSTLYLEVFSMLR,+++++++,HHHHHHHHHHHHCC,c2-5,DISO,boundary|bZIP_NFE2-like;,0.0,validNES:P106
+cand_beta_D,Nibrin,Mus musculus,Q9R207,649,PRKLLLTEFRSLVVSN  ....**.....*.*..,PRKLLLTEFRSLVVSN,....**.....*.*..,CCCEEEEEEEEEEECC,c1a-4,DISO,boundary|Nbs1_C;,1.0,NESdb:111
+cand_beta_D,Nibrin,Mus musculus,Q9R207,650,RKLLLTEFRSLVVSNH  ...**.....*.*...,RKLLLTEFRSLVVSNH,...**.....*.*...,CCEEEEEEEEEEECCC,c1aR-4,DISO,boundary|Nbs1_C;,1.0,NESdb:111
+cand_D,Nmd3,Homo sapiens,Q96D46,476,PRISLAEMLEDLHISQ  .*..*...*..*.*..,PRISLAEMLEDLHISQ,.*..*...*..*.*..,CCCCHHHHHHCCCCCC,c1a-4,DISO,,0.0,NESdb:3
+cand_D,Nmd3,Homo sapiens,Q96D46,476,PRISLAEMLEDLHISQ  .*..*...*..*.*..,PRISLAEMLEDLHISQ,.*..*...*..*.*..,CCCCHHHHHHCCCCCC,c1aR-4,DISO,,0.0,NESdb:3
+cand_D,Nmd3p,Saccharomyces cerevisiae,P38861,492,NIDELLDELDEMTLED  ++++++++++++&nbsp&nbsp&nbsp&nbsp,NIDELLDELDEMTLED,++++++++++++,CHHHHHHHHHCCCCCC,c1a-5,DISO,,0.0,NESdb:4 validNES:P067
+cand_beta_O,NOA1,Mus musculus,Q9JJG9,213,PGPALVLYMVNLLDLPD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++,PGPALVLYMVNLLDLPD,+++++,CCCCEEEEEEEECCCCC,c1c-4,ORD,MID|RbgA superfamily;,1.0,NESdb:265
+cand_beta_O,NOA1,Mus musculus,Q9JJG9,214,GPALVLYMVNLLDLPD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++,GPALVLYMVNLLDLPD,+++++,CCCEEEEEEEECCCCC,c1a-4,ORD,MID|RbgA superfamily;,1.0,NESdb:265
+cand_O,NOA1,Mus musculus,Q9JJG9,220,YMVNLLDLPDALLPDL  &nbsp&nbsp&nbsp&nbsp&nbsp+++++++++++,YMVNLLDLPDALLPDL,+++++++++++,EEEEECCCCCCCCCCC,c1aR-4,ORD,MID|RbgA superfamily;,0.143,NESdb:265
+cand_beta_D,NPM; NPM1,Homo sapiens,P06748,38,NEHQLSLRTVSLGA  &nbsp&nbsp&nbsp&nbsp*+*+++++&nbsp&nbsp,NEHQLSLRTVSLGA,*+*+++++,CCCEEEEEEEECCC,c2-4,boundary,boundary|Nucleoplasmin;,1.0,NESdb:93 validNES:P082
+cand_O,NPM; NPM1,Homo sapiens,P06748,83,VQPTVSLGGFEITP  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++,VQPTVSLGGFEITP,*++,CCCCEECCCCEECC,c2-4,ORD,boundary|Nucleoplasmin;,0.286,NESdb:93 validNES:P082
+cand_beta_D,NPM; NPM1,Homo sapiens,P06748,91,GFEITPPVVLRLKC  &nbsp&nbsp&nbsp*++*++*+*&nbsp&nbsp,GFEITPPVVLRLKC,*++*++*+*,CCEECCCEEEEEEE,c3-AT,boundary,boundary|Nucleoplasmin;,0.571,NESdb:93 validNES:P082
+cand_D,N protein,Borna disease virus,Q91UL8,120,GEKTTQRDLTELEISS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++++,GEKTTQRDLTELEISS,++++++++,CCCCCCCCCHHHHHHH,c1a-AT-4,boundary,MID|BDV_P40 superfamily;,0.0,validNES:P055
+cand_O,Nr1i3,Rattus norvegicus,Q9QUS1,240,VHVGFQYEFLELIIHF  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,VHVGFQYEFLELIIHF,++++++++++,HHCCCHHHHHHHHHHH,c1a-4,ORD,MID|NR_LBD superfamily;,0.0,validNES:P194
+cand_D,Nrf2,Homo sapiens,Q16236,193,SIPELQCLNIEN  .......*....,SIPELQCLNIEN,.......*....,CHHHHHCCCCCC,c2-rev,DISO,,0.0,NESdb:108
+cand_D,Nrf2,Homo sapiens,Q16236,549,SLHLLKKQLSTLYLEV  ....*...*..*.*..,SLHLLKKQLSTLYLEV,....*...*..*.*..,HHHHHHHHHHHHHHHH,c1a-5,DISO,boundary|bZIP_NFE2-like;,0.0,NESdb:108
+cand_D,Nrf2,Homo sapiens,Q16236,556,QLSTLYLEVFSMLR  .*..*.*.....&nbsp&nbsp,QLSTLYLEVFSMLR,.*..*.*.....,HHHHHHHHHHHHCC,c2-5,DISO,boundary|bZIP_NFE2-like;,0.0,NESdb:108
+cand_D,Nrf2; Nfe2l2,Mus musculus,Q60795,541,NLHLLKRRLSTLYLEV  &nbsp&nbsp&nbsp&nbsp*++++++++*&nbsp&nbsp,NLHLLKRRLSTLYLEV,*++++++++*,HHHHHHHHHHHHHHHH,c1a-5,boundary,boundary|bZIP_NFE2-like;,0.0,NESdb:69 validNES:P109
+cand_D,Nrf2; Nfe2l2,Mus musculus,Q60795,548,RLSTLYLEVFSMLR  ++++++*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,RLSTLYLEVFSMLR,++++++*,HHHHHHHHHHHCCC,c2-5,boundary,boundary|bZIP_NFE2-like;,0.0,NESdb:69 validNES:P109
+cand_beta_D,nsP2 (VEE),Venezuelan equine encephalitis virus,P36328,515,VLNQLCVRFFGLDLDS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++*+*++,VLNQLCVRFFGLDLDS,+++++*+*++,HHCCEEEEECCCCCCC,c1a-5,boundary,MID|Peptidase_C9 superfamily;,0.714,NESdb:92 validNES:P190
+cand_D,NT-PGC-1α,Mus musculus,O70343,30,DLPELDLSELDVND  +*++*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,DLPELDLSELDVND,+*++*+*,CCCCCCCCCCCCCC,c2-5,DISO,,0.0,NESdb:160
+cand_O,NURR1,Mus musculus,Q06219,435,QDLLFESAFLELFVLR  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++*++*+,QDLLFESAFLELFVLR,++*++*+,HHHHHHHHHHHHHHHH,c1a-4,ORD,MID|NR_LBD_Nurr1;,0.0,NESdb:246
+cand_O,NURR1,Mus musculus,Q06219,435,QDLLFESAFLELFVLRL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++*++*+*,QDLLFESAFLELFVLRL,++*++*+*,HHHHHHHHHHHHHHHHH,c1c-4,ORD,MID|NR_LBD_Nurr1;,0.0,NESdb:246
+cand_O,NURR1,Mus musculus,Q06219,440,ESAFLELFVLRLAY  &nbsp&nbsp&nbsp&nbsp++*++*+*+&nbsp,ESAFLELFVLRLAY,++*++*+*+,HHHHHHHHHHHHHH,c2-4,ORD,MID|NR_LBD_Nurr1;,0.0,NESdb:246
+cand_D,NURR1,Mus musculus,Q06219,566,CTQGLQRIFYLKLED  &nbsp&nbsp&nbsp&nbsp*++*++*+*&nbsp&nbsp,CTQGLQRIFYLKLED,*++*++*+*,HHHHHHHHHHHHHCC,c1b-4,boundary,boundary|NR_LBD_Nurr1;,0.0,NESdb:246
+cand_D,N-WASP,Mus musculus,Q91YD9,218,TGFDLNNLDPELKNLF  &nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp,TGFDLNNLDPELKNLF,*  *   *  *,CCCCCCCCCHHHHHHH,c1aR-5,DISO,boundary|PBD;,0.0,NESdb:205
+cand_D,N-WASP,Mus musculus,Q91YD9,221,DLNNLDPELKNLFD  &nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp,DLNNLDPELKNLFD,*  *   *  *,CCCCCCHHHHHHHH,c3-4,DISO,MID|PBD;,0.0,NESdb:205
+cand_D,N-WASP,Mus musculus,Q91YD9,221,DLNNLDPELKNLFDMCG  &nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp,DLNNLDPELKNLFDMCG,*  *   *  *,CCCCCCHHHHHHHHHCC,c1c-5,DISO,boundary|PBD;,0.0,NESdb:205
+cand_D,NXF3,Homo sapiens,Q9H4D5,288,TFSDTSSNINSILELFP  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,TFSDTSSNINSILELFP,* *,CCCCCCCCCCCHHHHCC,c1c-AT-5,boundary,,0.0,NESdb:179
+cand_D,NXF3,Homo sapiens,Q9H4D5,292,TSSNINSILELFPKLLCL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,TSSNINSILELFPKLLCL,* *,CCCCCCCHHHHCCCCCCC,c4-4,boundary,,0.0,NESdb:179
+cand_D,OREBP; NFAT5,Homo sapiens,O94916,1,MPSDFISLLSADLDLES  +++++++**+++*+*++,MPSDFISLLSADLDLES,+++++++**+++*+*++,CCCCCHHHCCCCCCCCC,c1c-4,DISO,,0.0,NESdb:175 validNES:P080
+cand_D,ORF45 of KSHV,Kaposi''s sarcoma-associated herpesvirus 8,Q77UV9,281,QGEVLSQRIGLMDVGQ  &nbsp&nbsp&nbsp**+++*+*+++&nbsp&nbsp,QGEVLSQRIGLMDVGQ,**+++*+*+++,CCCCCCCEEECCCCCC,c1a-4,DISO,,0.429,NESdb:80
+cand_D,ORFNames=F10K1.15,Arabidopsis thaliana,Q9LMK7,168,DAADTAGLLEKLTVEE  &nbsp&nbsp&nbsp+++++++++++++,DAADTAGLLEKLTVEE,+++++++++++++,CCCCCCCCCCCCCCCC,c1a-AT-4,boundary,boundary|RanBD_RanBP1;,0.0,validNES:P201
+cand_O,ORFNames=UL47,Bovine herpesvirus 1.1,P30021,481,ERYALSAYLTLFVALAE  &nbsp&nbsp&nbsp&nbsp+++++++++++&nbsp&nbsp,ERYALSAYLTLFVALAE,+++++++++++,HHHHHHHHHHHHHHHHH,c1c-4,ORD,MID|Herpes_UL47 superfamily;,0.0,validNES:P094
+cand_D,ORFNames=UL49,Bovine herpesvirus 1.1,P30022,203,RLDRMLKSAAIRILVCE  &nbsp+++++++++++++&nbsp&nbsp&nbsp,RLDRMLKSAAIRILVCE,+++++++++++++,HHHHHHHHCCEEEEEEC,c1c-AT-5,boundary,boundary|Herpes_UL49_2 superfamily;,0.25,validNES:P151
+cand_D,ORFNames=UL49,Bovine herpesvirus 1.1,P30022,204,LDRMLKSAAIRILVCE  +++++++++++++&nbsp&nbsp&nbsp,LDRMLKSAAIRILVCE,+++++++++++++,HHHHHHHCCEEEEEEC,c1a-AT-4,boundary,boundary|Herpes_UL49_2 superfamily;,0.286,validNES:P151
+cand_D,P,Borna disease virus,Q5GLC3,137,NIKILDRSMKTMME  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++,NIKILDRSMKTMME,++++++,HHHHHHHHHHHHHH,c3-4,DISO,MID|BDV_P24 superfamily;,0.0,validNES:P132
+cand_D,P,Borna disease virus,Q5GLC3,141,LDRSMKTMMETMKLMM  &nbsp&nbsp&nbsp&nbsp++++++++++++,LDRSMKTMMETMKLMM,++++++++++++,HHHHHHHHHHHHHHHH,c1a-4,DISO,MID|BDV_P24 superfamily;,0.0,validNES:P132
+cand_D,P,Borna disease virus,Q5GLC3,148,MMETMKLMMEKVDLLY  ++++++++++++++++,MMETMKLMMEKVDLLY,++++++++++++++++,HHHHHHHHHHHHHHHH,c1a-5,DISO,MID|BDV_P24 superfamily;,0.0,validNES:P132
+cand_D,p100,Homo sapiens,Q00653,827,DLAGLLEALSDMGLEE  &nbsp&nbsp&nbsp&nbsp**&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,DLAGLLEALSDMGLEE,**     * *,CHHHHHHHHHHCCCHH,c1a-5,DISO,boundary|Death_NFkB2_p100;,0.0,NESdb:237
+cand_D,p120ctn,Homo sapiens,O60716,940,GQESLEEELDVLVLDD  &nbsp&nbsp&nbsp++++++++*+*++,GQESLEEELDVLVLDD,++++++++*+*++,CCCCHHHHCCCCCCCC,c1a-4,DISO,,0.0,NESdb:19
+cand_beta_D,p21Cip1; CDKN1A,Homo sapiens,P38936,60,EGDFAWERVRGLGLPK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++*+*++,EGDFAWERVRGLGLPK,+++*+*++,CCCCEEEEECCCCCCC,c1a-AT-4,DISO,,0.714,NESdb:210 validNES:P143
+cand_D,p38 (p40),Borna disease virus,P0C796,120,GEKTTQRDLTELEISS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*+*++,GEKTTQRDLTELEISS,*++*+*++,CCCCCCCCCHHHHHHH,c1a-AT-4,boundary,MID|BDV_P40 superfamily;,0.0,NESdb:56
+cand_D,P53; TP53,Homo sapiens,P04637,336,ERFEMFRELNEALELKD  &nbsp&nbsp&nbsp+++++++++*+*++,ERFEMFRELNEALELKD,+++++++++*+*++,HHHHHHHHHHHHHHHHH,c1c-4,DISO,small|P53_tetramer;,0.0,NESdb:6 validNES:P002
+cand_D,PAK4,Homo sapiens,O96013,81,ALTLLLDEFENMSVTR  &nbsp+++*+++*++*+*&nbsp&nbsp,ALTLLLDEFENMSVTR,+++*+++*++*+*,CCCCCCCCCCCCCCCC,c1a-5,DISO,,0.0,NESdb:234
+cand_D,PAK4,Homo sapiens,O96013,537,NLHKVSPSLKGFLD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++,NLHKVSPSLKGFLD,++++++,CCCCCCHHHHHHHH,c3-4,boundary,MID|STKc_PAK4;,0.0,NESdb:234
+cand_D,PAK4,Homo sapiens,O96013,541,VSPSLKGFLDRLLVRD  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,VSPSLKGFLDRLLVRD,++++++++++,CCHHHHHHHHHHCCCC,c1a-4,boundary,MID|STKc_PAK4;,0.0,NESdb:234
+cand_D,PAK5,Homo sapiens,Q9P286,393,QYISTASYLSSLSLSS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp*&nbsp&nbsp,QYISTASYLSSLSLSS,*  * *,CCCCCCCCCCCCCCCC,c1a-AT-4,DISO,boundary|STKc_PAK5;,0.0,NESdb:236
+cand_D,Pap1,Schizosaccharomyces pombe,Q01663,515,ESFDIDDLCSKLKNKA  ++++*++*+++*++++,ESFDIDDLCSKLKNKA,++++*++*+++*++++,CCCCHHHHHHHHHHHC,c1aR-4,boundary,boundary|PAP1 superfamily;,0.0,NESdb:8 validNES:P017
+cand_D,Pat1b; PATL1,Homo sapiens,Q86TB9,82,HEENLAERLSKMVIEN  &nbsp&nbsp&nbsp&nbsp++++*++*+*&nbsp&nbsp,HEENLAERLSKMVIEN,++++*++*+*,CCCHHHHHHHHCCCCC,c1a-4,DISO,MID|PAT1 superfamily;,0.0,NESdb:222 validNES:P165
+cand_D,PCNA,Homo sapiens,P12004,11,ILKKVLEALKDLIN  +*+++*++*++*+&nbsp,ILKKVLEALKDLIN,+*+++*++*++*+,HHHHHHHHHHHHHC,c3-4,terminal,boundary|pcna;,0.0,NESdb:250
+cand_D,PDK-1; Pdpk1,Mus musculus,Q9Z2A0,378,NYDNLLSQFGFMQVSS  &nbsp&nbsp&nbsp&nbsp+*++*+++++&nbsp&nbsp,NYDNLLSQFGFMQVSS,+*++*+++++,CCCCCCCCCCCCCCCC,c1a-4,DISO,boundary|STKc_PDK1;,0.0,NESdb:200 validNES:P129
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,241,AVHGLELEALRLSL  &nbsp&nbsp&nbsp&nbsp+++++++*+*,AVHGLELEALRLSL,+++++++*+*,CCCCCHHHHHHHHC,c2-5,DISO,boundary|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,243,HGLELEALRLSLSNMH  &nbsp&nbsp+++++++*+*&nbsp&nbsp&nbsp&nbsp,HGLELEALRLSLSNMH,+++++++*+*,CCCHHHHHHHHCCCCC,c1aR-5,DISO,boundary|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,246,ELEALRLSLSNMHT  ++++++*+*&nbsp&nbsp&nbsp&nbsp&nbsp,ELEALRLSLSNMHT,++++++*+*,HHHHHHHHCCCCCH,c3-4,DISO,boundary|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1154,ERGALQDALRRLLGLFG  &nbsp&nbsp&nbsp&nbsp++++++++*+*++,ERGALQDALRRLLGLFG,++++++++*+*++,HHHHHHHHHHHHHHHHH,c1c-4,DISO,MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1165,LLGLFGETLRAAVTLRS  +*+*++++++++*+*&nbsp&nbsp,LLGLFGETLRAAVTLRS,+*+*++++++++*+*,HHHHHHHHHHHHHHHHH,c1c-5,DISO,MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1536,LREKLDEFNELAIQK  &nbsp&nbsp&nbsp&nbsp++++++*+*&nbsp&nbsp,LREKLDEFNELAIQK,++++++*+*,HHHHHHHHHHHHHHH,c1b-4,DISO,MID|SMC_N superfamily; MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1738,EIEQLHEVIEKLQH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++++++,EIEQLHEVIEKLQH,+++++++,HHHHHHHHHHHHHH,c3-4,DISO,MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1741,QLHEVIEKLQHELSLMG  &nbsp&nbsp&nbsp&nbsp++++++++*+*&nbsp&nbsp,QLHEVIEKLQHELSLMG,++++++++*+*,HHHHHHHHHHHHHHCCC,c1c-5,DISO,MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1745,VIEKLQHELSLMGP  ++++++++*+*&nbsp&nbsp&nbsp,VIEKLQHELSLMGP,++++++++*+*,HHHHHHHHHHCCCC,c3-4,DISO,MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,Pericentrin; PCNT,Homo sapiens,O95613,1745,VIEKLQHELSLMGPVVHE  ++++++++*+*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,VIEKLQHELSLMGPVVHE,++++++++*+*,HHHHHHHHHHCCCCCCCC,c4-5,DISO,MID|SMC_N superfamily;,0.0,NESdb:158 validNES:P176
+cand_D,PLC-δ1,Rattus norvegicus,P10688,161,NFKELKDFLKELNIQV  &nbsp&nbsp&nbsp+*+++*++*+*+*,NFKELKDFLKELNIQV,+*+++*++*+*+*,CHHHHHHHHHHHCCCC,c1a-5,boundary,boundary|PH_PLC_delta; boundary|EFh_PI-PLCdelta1;,0.0,NESdb:33 validNES:P024
+cand_D,Pou3f1,Mus musculus,P21952,363,SAHEITGLADSLQLEK  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,SAHEITGLADSLQLEK,++++++++++,CHHHHHHHHHHCCCCC,c1a-AT-4,DISO,boundary|Homeobox;,0.0,validNES:P091
+cand_D,PP2A B56α; PPP2R5A,Homo sapiens,Q15172,450,EREELWKKLEELKLKK  &nbsp+++++++*++*+*++,EREELWKKLEELKLKK,+++++++*++*+*++,HHHHHHHHHHHHHHHH,c1a-4,boundary,boundary|B56;,0.0,NESdb:157 validNES:P167
+cand_D,Ppp3cb,Rattus norvegicus,P20651,412,AIGKMARVFSVLRE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++,AIGKMARVFSVLRE,+++,HHHHHHHHHHHHHH,c3-4,DISO,,0.0,validNES:P215
+cand_D,PRKD2,Homo sapiens,Q9BZL6,156,GEMLFGLVRQGLKCDG  +++++++++++++&nbsp&nbsp&nbsp,GEMLFGLVRQGLKCDG,+++++++++++++,HHHHHHHHHCCCCCCC,c1aR-4,boundary,boundary|C1_1; boundary|C1_1;,0.0,validNES:P158
+cand_beta_D,Protein 9b,Human SARS coronavirus,P59636,41,KVYPIILRLGSQLSLSM  &nbsp&nbsp&nbsp&nbsp&nbsp+*+*+++*+*&nbsp&nbsp,KVYPIILRLGSQLSLSM,+*+*+++*+*,CEEEEEEEECCCCHHHH,c1c-5,boundary,MID|SARS_lipid_bind;,0.625,NESdb:214 validNES:P099
+cand_beta_D,Protein UL84,Human cytomegalovirus,P16727,222,RMAIVRLSLNLFALRI  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*+*+++++++,RMAIVRLSLNLFALRI,*+*+++++++,HHCEEEEEEEEEEEEC,c1a-5,boundary,MID|Cytomega_UL84 superfamily;,1.0,NESdb:209 validNES:P087
+cand_beta_D,Protein UL84,Human cytomegalovirus,P16727,224,AIVRLSLNLFALRIIT  &nbsp&nbsp&nbsp&nbsp*+*+++++++&nbsp&nbsp,AIVRLSLNLFALRIIT,*+*+++++++,CEEEEEEEEEEEECCC,c1a-5,boundary,MID|Cytomega_UL84 superfamily;,1.0,NESdb:209 validNES:P087
+cand_beta_D,Protein UL84,Human cytomegalovirus,P16727,355,SPPDLTLSSLTLYQ  &nbsp&nbsp&nbsp&nbsp*+++++++&nbsp&nbsp,SPPDLTLSSLTLYQ,*+++++++,CCCCCEEEEEEEEE,c2-4,__,MID|Cytomega_UL84 superfamily;,0.714,NESdb:209 validNES:P087
+cand_D,P/V/C,Measles virus,Q9YZN9,72,AVRDLEKAMTTLKLWE  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,AVRDLEKAMTTLKLWE,++++++++++,HHHHHHHHHHHHHHCC,c1a-5,boundary,MID|Paramyxo_NS_C;,0.0,validNES:P135
+cand_D,Rabies virus P protein,Rabies virus,P22363,45,EVDNLPEDMKRLHLDD  ++++++++++++++++,EVDNLPEDMKRLHLDD,++++++++++++++++,CCCCCHHHCCCCCCCC,c1a-5,DISO,MID|PP_M1;,0.0,NESdb:63 validNES:P092
+cand_D,RanBP1,Homo sapiens,P43487,176,HAEKVAEKLEALSVKE  &nbsp&nbsp++++++*++*+*++,HAEKVAEKLEALSVKE,++++++*++*+*++,CHHHHHHHHHCCCCCC,c1a-4,DISO,boundary|RanBD_RanBP1;,0.0,NESdb:7 validNES:P029
+cand_D,Rassf5,Mus musculus,Q5EBH1,368,SIPELQNFLTILEK  &nbsp&nbsp&nbsp&nbsp++++++++&nbsp&nbsp,SIPELQNFLTILEK,++++++++,CHHHHHHHHHHHHH,c3-4,boundary,boundary|UBQ superfamily; small|Nore1-SARAH;,0.0,validNES:P108
+cand_D,RBCK1,Homo sapiens,Q9BYM8,145,RERQLRMLEDLGFKD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp,RERQLRMLEDLGFKD,*  *,HHHHHHHHCCCCCCC,c1b-4,boundary,boundary|Hoil1_N;,0.0,NESdb:131
+cand_D,RelA/Transcription factor p65,Homo sapiens,Q04206,432,GEGTLSEALLQLQFDD  &nbsp&nbsp&nbsp&nbsp++++*++*++&nbsp&nbsp,GEGTLSEALLQLQFDD,++++*++*++,CCCCCHHHHCCCCCCC,c1a-4,DISO,,0.0,NESdb:25 validNES:P015
+cand_D,rev,Human immunodeficiency virus type 1 group M subtype B,P05865,74,QLPPLERLTLDC  &nbsp+++++++++&nbsp&nbsp,QLPPLERLTLDC,+++++++++,CCCCCCCCCCCC,c2-rev,DISO,boundary|REV;,0.0,validNES:P010
+cand_D,Rev,Bovine immunodeficiency virus,P24097,101,RLSGLDRRIQQLED  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++*++,RLSGLDRRIQQLED,+++*++,HHHHHHHHHHHHHH,c3-4,DISO,,0.0,NESdb:235 validNES:P211
+cand_D,Rev,Bovine immunodeficiency virus,P24097,108,RIQQLEDLVRHMSLGS  &nbsp+++*+++*++*+*&nbsp&nbsp,RIQQLEDLVRHMSLGS,+++*+++*++*+*,HHHHHHHHHHHHCCCC,c1a-5,DISO,,0.0,NESdb:235 validNES:P211
+cand_D,Rex Protein,Human T-cell leukemia virus type 1,P0C205,78,SMDALSAQLYSSLSLDS  &nbsp&nbsp&nbsp+++++++++*+*++,SMDALSAQLYSSLSLDS,+++++++++*+*++,CCCCCCCCCCCCCCCCC,c1c-5,DISO,,0.0,NESdb:13
+cand_D,RIP3; RIPK3,Homo sapiens,Q9Y572,251,ETPGLEGLKELMQLCW  ++++*++*++*++*++,ETPGLEGLKELMQLCW,++++*++*++*++*++,CCCCHHHHHHHHHHHC,c1d-4,boundary,boundary|PKc_like superfamily;,0.0,NESdb:32 validNES:P128
+cand_D,RIP3; RIPK3,Homo sapiens,Q9Y572,279,CLPKTDEVFQMVEN  +++++++++&nbsp&nbsp&nbsp&nbsp&nbsp,CLPKTDEVFQMVEN,+++++++++,HHHHHHHHHHHHHH,c3-AT,boundary,boundary|PKc_like superfamily;,0.0,NESdb:32 validNES:P128
+cand_D,RIP3; RIPK3,Homo sapiens,Q9Y572,341,NDVMVSEWLNKLNLEE  +++*++++*++*+*++,NDVMVSEWLNKLNLEE,+++*++++*++*+*++,CCCCHHHHHCCCCCCC,c1a-4,DISO,,0.0,NESdb:32 validNES:P128
+cand_D,RITA,Homo sapiens,Q96K30,4,PVELAVSGMQTLGLQH  &nbsp&nbsp&nbsp*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,PVELAVSGMQTLGLQH,*       * *,CCEEEECCCCCCCCCC,c1a-AT-5,DISO,boundary|RITA;,0.286,NESdb:183
+cand_D,RoXan,Homo sapiens,Q9UGR2,277,FGPELDTLLDSLSLVQ  .......*.*......,FGPELDTLLDSLSLVQ,.......*.*......,CCCCHHHHHHHCCCCC,c1a-4,DISO,,0.0,NESdb:135
+cand_O,Rsp5,Saccharomyces cerevisiae,P39940,683,ELELLIGGIAEIDIED  ...........*.*..,ELELLIGGIAEIDIED,...........*.*..,HHHHHHHCCCCCCHHH,c1a-5,ORD,MID|HUL4;,0.0,NESdb:229
+cand_D,SBP2; SECISBP2,Homo sapiens,Q96T21,641,VDACVTDLLKELVRFQD  +++++++++++++++++,VDACVTDLLKELVRFQD,+++++++++++++++++,HHHHHHHHHHHHHHHHH,c1c-4,DISO,boundary|Ribosomal_L7Ae;,0.0,NESdb:221 validNES:P117
+cand_D,SBP2; SECISBP2,Homo sapiens,Q96T21,644,CVTDLLKELVRFQD  ++++++++++++++,CVTDLLKELVRFQD,++++++++++++++,HHHHHHHHHHHHHH,c3-4,DISO,boundary|Ribosomal_L7Ae;,0.0,NESdb:221 validNES:P117
+cand_D,SBP2; SECISBP2,Homo sapiens,Q96T21,751,SYDGAQDQFHKMVELTV  &nbsp&nbsp&nbsp&nbsp&nbsp++++++++++++,SYDGAQDQFHKMVELTV,++++++++++++,CCCCHHHHHHHHHHHHH,c1c-AT-4,DISO,boundary|Ribosomal_L7Ae;,0.0,NESdb:221 validNES:P117
+cand_D,SENP2,Homo sapiens,Q9HC62,317,LEPDLSEEVSARLRLGS  ++++++++++++*+*+&nbsp,LEPDLSEEVSARLRLGS,++++++++++++*+*+,CCCCCHHHHHHHHHCCC,c1c-4,DISO,,0.0,NESdb:220 validNES:P123
+cand_D,SH2-Bβ,Rattus norvegicus,Q62985,221,GERWTHRFERLRLSR  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp&nbsp,GERWTHRFERLRLSR,* *,CCCCHHHHHHHCCCC,c1b-AT-4,DISO,boundary|PH_SH2B_family;,0.0,NESdb:167
+cand_D,Sima,Drosophila melanogaster,Q24167,111,KASVMRITIAFLKIRE  ....*+*++++*++..,KASVMRITIAFLKIRE,....*+*++++*++..,HHHHHHHHHHHHHHHH,c1a-4,DISO,boundary|HLH;,0.0,NESdb:152 validNES:P185
+cand_D,Sima,Drosophila melanogaster,Q24167,113,SVMRITIAFLKIRE  ..*+*++++*++..,SVMRITIAFLKIRE,..*+*++++*++..,HHHHHHHHHHHHHH,c2-5,DISO,boundary|HLH;,0.0,NESdb:152 validNES:P185
+cand_D,Sima,Drosophila melanogaster,Q24167,113,SVMRITIAFLKIRE  ..*+*++++*++..,SVMRITIAFLKIRE,..*+*++++*++..,HHHHHHHHHHHHHH,c3-4,DISO,boundary|HLH;,0.0,NESdb:152 validNES:P185
+cand_D,Sima,Drosophila melanogaster,Q24167,117,ITIAFLKIREMLQFVP  *++++*++......&nbsp&nbsp,ITIAFLKIREMLQFVP,*++++*++......,HHHHHHHHHHHHCCCC,c1aR-5,DISO,boundary|HLH;,0.0,NESdb:152 validNES:P185
+cand_D,Sima,Drosophila melanogaster,Q24167,120,AFLKIREMLQFVPSLR  ++*++......&nbsp&nbsp&nbsp&nbsp&nbsp,AFLKIREMLQFVPSLR,++*++......,HHHHHHHHHCCCCCCC,c1aR-5,DISO,boundary|HLH;,0.0,NESdb:152 validNES:P185
+cand_beta_O,Sirt1,Mus musculus,Q923E4,423,DEVDLLIVIGSSLKVRP  &nbsp&nbsp*&nbsp*****&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,DEVDLLIVIGSSLKVRP,* *****,CCCCEEEEECCCCCCCC,c1c-4,ORD,MID|SIRT1;,0.625,NESdb:264
+cand_D,SIRT2,Homo sapiens,Q8IXJ6,37,DMDFLRNLFSQTLSLGS  ....*++**+++*+*..,DMDFLRNLFSQTLSLGS,....*++**+++*+*..,CHHHHHHHHHHHHCCCC,c1c-5,boundary,,0.0,NESdb:199 validNES:P112
+cand_beta_D,Smad1,Homo sapiens,Q15797,402,TVYELTKMCTIRMSF  &nbsp&nbsp&nbsp&nbsp*++*+++++&nbsp&nbsp,TVYELTKMCTIRMSF,*++*+++++,EEEECCCEEEEEEEE,c1b-5,boundary,MID|MH2_SMAD_1_5_9;,0.571,NESdb:40 validNES:P032
+cand_beta_D,Smad1,Homo sapiens,Q15797,403,VYELTKMCTIRMSF  &nbsp&nbsp&nbsp*++*+++++&nbsp&nbsp,VYELTKMCTIRMSF,*++*+++++,EEECCCEEEEEEEE,c2-AT-4,boundary,MID|MH2_SMAD_1_5_9;,0.571,NESdb:40 validNES:P032
+cand_beta_D,Smad1,Homo sapiens,Q15797,405,ELTKMCTIRMSFVK  &nbsp*++*+++++&nbsp&nbsp&nbsp&nbsp,ELTKMCTIRMSFVK,*++*+++++,ECCCEEEEEEEEEE,c2-AT-5,boundary,MID|MH2_SMAD_1_5_9;,0.857,NESdb:40 validNES:P032
+cand_D,smad4.1,Xenopus laevis,Q9W639,134,VSPGIDLSGLTLQS  &nbsp&nbsp&nbsp++++++++++&nbsp,VSPGIDLSGLTLQS,++++++++++,CCCCCCCCCCCCCC,c2-4,DISO,boundary|MH1_SMAD_4;,0.0,validNES:P004
+cand_beta_D,SMARCB1,Homo sapiens,Q12824,262,VIIKLNIHVGNISLVD  &nbsp&nbsp&nbsp&nbsp+++++++++++&nbsp,VIIKLNIHVGNISLVD,+++++++++++,EEEEEEEEECCEEEEE,c1a-5,boundary,MID|SNF5;,0.714,validNES:P218
+cand_O,Smurf1,Homo sapiens,Q9HCE7,601,ELELIIGGLDKIDLND  &nbsp&nbsp+++++++++*+*&nbsp&nbsp,ELELIIGGLDKIDLND,+++++++++*+*,HHHHHHHCCCCCCHHH,c1a-5,ORD,MID|HECTc;,0.0,NESdb:58
+cand_D,Snail,Mus musculus,Q02085,131,GLGQLPKQLARLSVAK  .+++++++*++*+...,GLGQLPKQLARLSVAK,.+++++++*++*+...,CCCCCCCCCCCCCCCC,c1a-5,DISO,,0.0,NESdb:211 validNES:P102
+cand_D,Spc27,Saccharomyces cerevisiae,P39723,414,YINDLEKQINDLQIDK  &nbsp&nbsp&nbsp&nbsp+++++++*+*++,YINDLEKQINDLQIDK,+++++++*+*++,HHHHHHHHHHHHHHHH,c1a-5,DISO,MID|SMC_N superfamily;,0.0,NESdb:72
+cand_D,STAT1,Homo sapiens,P42224,193,KQEQLLLKKMYLML  &nbsp&nbsp&nbsp&nbsp++*++++++&nbsp,KQEQLLLKKMYLML,++*++++++,HHHHHHHHHHHHHH,c2-4,boundary,MID|STAT_alpha;,0.0,NESdb:27 validNES:P018
+cand_D,STAT1,Homo sapiens,P42224,195,EQLLLKKMYLMLDNKR  &nbsp&nbsp++*++++++&nbsp&nbsp&nbsp&nbsp&nbsp,EQLLLKKMYLMLDNKR,++*++++++,HHHHHHHHHHHHHHHH,c1aR-4,boundary,MID|STAT_alpha;,0.0,NESdb:27 validNES:P018
+cand_D,STAT1,Homo sapiens,P42224,305,TFSLFQQLIQSSFVVER  +++**++**+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,TFSLFQQLIQSSFVVER,+++**++**+,HHHHHHHHHCCEEEEEE,c1c-5,boundary,boundary|STAT_alpha; boundary|STAT_bind;,0.125,NESdb:27 validNES:P018
+cand_D,STAT1,Homo sapiens,P42224,379,KFNILGTHTKVMNMEE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++,KFNILGTHTKVMNMEE,+++,CCCCCCCCCCCCCCCC,c1a-AT-5,DISO,MID|STAT_bind;,0.0,NESdb:27 validNES:P018
+cand_D,STAT1,Homo sapiens,P42224,396,TNGSLAAEFRHLQLKE  ++++*+++*++*+*++,TNGSLAAEFRHLQLKE,++++*+++*++*+*++,CCCCCCCCCCCCCCCC,c1a-4,DISO,MID|STAT_bind;,0.0,NESdb:27 validNES:P018
+cand_D,STAT3,Mus musculus,P42227,309,IVELFRNLMKSAFVVER  ++++*+++*+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,IVELFRNLMKSAFVVER,++++*+++*+,HHHHHHHHHCCCEEEEE,c1c-5,boundary,boundary|STAT_alpha; boundary|STAT_bind;,0.0,NESdb:50
+cand_D,STAT3,Mus musculus,P42227,400,NNGSLSAEFKHLTLRE  &nbsp&nbsp&nbsp&nbsp++++*++*+++&nbsp,NNGSLSAEFKHLTLRE,++++*++*+++,CCCCCCCCCCCCCCCC,c1a-4,DISO,MID|STAT_bind;,0.0,NESdb:50
+cand_D,STAT3,Mus musculus,P42227,521,SIEQLTTLAEKLLG  &nbsp&nbsp&nbsp+*++*++++++,SIEQLTTLAEKLLG,+*++*++++++,CHHHHHHHHHHHCC,c3-AT,boundary,MID|STAT_bind; boundary|SH2_STAT3;,0.0,NESdb:50
+cand_beta_D,Stau2,Rattus norvegicus,Q68SB1,1,XMLQINQMFSVQLSLGE  &nbsp&nbsp&nbsp&nbsp*+++++++*++&nbsp&nbsp,XMLQINQMFSVQLSLGE,*+++++++*++,CCCCCCEEEEEEEECCE,c1c-5-Nt,boundary,,0.75,NESdb:122
+cand_beta_D,Stau2,Rattus norvegicus,Q68SB1-2,1,XMLQINQMFSVQLSLGE  &nbsp&nbsp&nbsp&nbsp+++++++++++&nbsp&nbsp,XMLQINQMFSVQLSLGE,+++++++++++,CCCCCCEEEEEEEECCE,c1c-5-Nt,boundary,,0.75,validNES:P139
+cand_D,survivin; BIRC5,Homo sapiens,O15392,85,AFLSVKKQFEELTLGE  ++++*+++*++*+*++,AFLSVKKQFEELTLGE,++++*+++*++*+*++,CCEECCCCCCCCCHHH,c1a-5,boundary,boundary|BIR;,0.0,NESdb:123 validNES:P188
+cand_D,survivin; BIRC5,Homo sapiens,O15392,130,KVRRAIEQLAAMDX  +++++++++++++&nbsp,KVRRAIEQLAAMDX,+++++++++++++,HHHHHHHHHHCCC,c3-AT,DISO,,0.0,NESdb:123 validNES:P188
+cand_O,Tax,Human T-cell leukemia virus type 1,P03409,187,PYKRIEELLYKISLTT  &nbsp+++++++++++**++,PYKRIEELLYKISLTT,+++++++++++**++,CHHHHHHHHHHHHHCC,c1a-4,ORD,MID|Tax;,0.0,NESdb:84 validNES:P081
+cand_O,Tax,Human T-cell leukemia virus type 1,P03409,194,LLYKISLTTGALIILPE  +++++**++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LLYKISLTTGALIILPE,+++++**++,HHHHHHHCCCCEEEECC,c1c-AT-5,ORD,boundary|Tax;,0.125,NESdb:84 validNES:P081
+cand_O,Tax,Human T-cell leukemia virus type 1,P03409,194,LLYKISLTTGALIILP  +++++**++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LLYKISLTTGALIILP,+++++**++,HHHHHHHCCCCEEEEC,c1a-AT-5,ORD,boundary|Tax;,0.0,NESdb:84 validNES:P081
+cand_D,Tbx5,Gallus gallus,Q9PWE8,142,PATGAHWMRQLVSFQK  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++*++,PATGAHWMRQLVSFQK,+++*++,CCCHHHHHHCCCCCCC,c1d-AT-4,boundary,MID|TBOX;,0.0,NESdb:127 validNES:P124
+cand_D,Tbx5,Gallus gallus,Q9PWE8,149,MRQLVSFQKLKLTN  &nbsp&nbsp&nbsp+++*++*+*&nbsp&nbsp,MRQLVSFQKLKLTN,+++*++*+*,HHCCCCCCCHHCCC,c2-4,boundary,MID|TBOX;,0.0,NESdb:127 validNES:P124
+cand_D,TCF11; NFE2L1,Homo sapiens,Q14494,245,GEDQTALSLEECLRLLE  ......++*+++*++*.,GEDQTALSLEECLRLLE,......++*+++*++*.,CCCCCCCCHHHHHHHHH,c1c-AT-4,DISO,,0.0,NESdb:101 validNES:P104
+cand_beta_D,TDP-43,Homo sapiens,Q13148,244,CGEDLIIKGISVHI  &nbsp&nbsp&nbsp&nbsp***&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,CGEDLIIKGISVHI,***,HCCCEEECCEEEEE,c2-4,boundary,boundary|RRM2_TDP43;,0.571,NESdb:193
+cand_beta_D,TDP-43,Homo sapiens,Q13148,246,EDLIIKGISVHISNAE  &nbsp&nbsp***&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,EDLIIKGISVHISNAE,***,CCEEECCEEEEEEECC,c1aR-4,boundary,boundary|RRM2_TDP43;,0.714,NESdb:193
+cand_D,TFIIIA,Bufo americanus,P34694,329,PLPVLENLTLKX  +++++++*+++&nbsp,PLPVLENLTLKX,+++++++*+++,CCCCCCCCCCC,c2-rev,DISO,,0.0,NESdb:15
+cand_D,Tgs1 LF,Homo sapiens,Q96RS0,313,DHSEILDGISNIKLNS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp*&nbsp*&nbsp&nbsp,DHSEILDGISNIKLNS,* * *,CCCCCCCCCCCCCCCH,c1a-4,DISO,,0.0,NESdb:223
+cand_D,TIS11; Zfp36,Rattus norvegicus,P47973,1,XXMDLSAIYESLMSMS  &nbsp*+*++*+++*++++*,XXMDLSAIYESLMSMS,*+*++*+++*++++*,CCHHHHHHHHHCCCCC,c1aR-5-Nt,DISO,,0.0,NESdb:36 validNES:P027
+cand_D,TIS11; Zfp36,Rattus norvegicus,P47973,2,DLSAIYESLMSMSH  .*..*...*....*,DLSAIYESLMSMSH,.*..*...*....*,CHHHHHHHHHCCCC,c3-4,DISO,,0.0,NESdb:36 validNES:P027
+cand_D,TOB1,Homo sapiens,P50616,5,IQVALNFIISYLYNKL  ++++++++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,IQVALNFIISYLYNKL,++++++++++,HHHHHHHHHHHHHCCC,c1aR-4,terminal,boundary|btg1;,0.0,validNES:P098
+cand_D,TOB1,Homo sapiens,P50616,9,LNFIISYLYNKLPRRR  ++++++&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,LNFIISYLYNKLPRRR,++++++,HHHHHHHHHCCCCHHH,c1aR-4,terminal,boundary|btg1;,0.0,validNES:P098
+cand_D,Topoisomerase 2-alpha; TOP2A,Homo sapiens,P11388,1014,TVLDILRDFFELRLKY  &nbsp&nbsp&nbsp+++++*++*+*+&nbsp,TVLDILRDFFELRLKY,+++++*++*+*+,CHHHHHHHHHHHHHHH,c1a-5,boundary,MID|PTZ00108;,0.0,NESdb:121 validNES:P136
+cand_D,Topoisomerase 2-alpha; TOP2A,Homo sapiens,P11388,1051,QARFILEKIDGKIIIEN  &nbsp&nbsp&nbsp+++++*+++*+++&nbsp,QARFILEKIDGKIIIEN,+++++*+++*+++,HHHHHHHHHCCCCCCCC,c1c-4,boundary,MID|PTZ00108;,0.0,NESdb:121 validNES:P136
+cand_D,Topoisomerase 2-alpha; TOP2A,Homo sapiens,P11388,1052,ARFILEKIDGKIIIEN  &nbsp&nbsp+++++*+++*+++&nbsp,ARFILEKIDGKIIIEN,+++++*+++*+++,HHHHHHHHCCCCCCCC,c1aR-4,boundary,MID|PTZ00108;,0.0,NESdb:121 validNES:P136
+cand_D,Topoisomerase II-beta; TOP2B,Homo sapiens,Q02880,1035,TVQDILKEFFDLRLSY  **+++++++++++++&nbsp,TVQDILKEFFDLRLSY,**+++++++++++++,CHHHHHHHHHHHHHHH,c1a-5,boundary,MID|PTZ00108;,0.0,NESdb:95 validNES:P138
+cand_D,Trip6,Mus musculus,Q9Z1Y4,96,EIDSLTSMLADLDG  ....*...*..*..,EIDSLTSMLADLDG,....*...*..*..,CCCCCCCCCCCCCC,c3-4,DISO,MID|Atrophin-1 superfamily;,0.0,NESdb:137
+cand_D,TRIP-Br2; SERTAD2,Homo sapiens,Q14140,229,FEITTSTGFLTDLTLDD  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++++*&nbsp&nbsp,FEITTSTGFLTDLTLDD,*++++*,CCCCCCCCCCCCCCCCC,c1c-AT-4,DISO,,0.0,NESdb:192 validNES:P186
+cand_D,TRIP-Br2; SERTAD2,Homo sapiens,Q14140,237,FLTDLTLDDILFAD  &nbsp*++++*&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,FLTDLTLDDILFAD,*++++*,CCCCCCCCCCCCCC,c2-5,DISO,,0.0,NESdb:192 validNES:P186
+cand_D,Tropomodulin-1; TMOD1,Homo sapiens,P28289,124,SDAELCDIAAILGMHT  &nbsp&nbsp&nbsp+++++++**+&nbsp&nbsp&nbsp,SDAELCDIAAILGMHT,+++++++**+,HHHHHHHHHHHHCCCC,c1a-AT-4,DISO,boundary|Tropomodulin;,0.0,NESdb:206 validNES:P093
+cand_D,UL4,Human herpesvirus 1,P10188,165,GTAEFLQPTADLLVEV  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++,GTAEFLQPTADLLVEV,*++,CCCCCCCCCCHHHHHH,c1a-AT-4,DISO,boundary|Herpes_UL4;,0.0,NESdb:231
+cand_D,UL4,Human herpesvirus 1,P10188,166,TAEFLQPTADLLVEVLR  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*+,TAEFLQPTADLLVEVLR,*++*+,CCCCCCCCCHHHHHHHH,c1c-AT-4,DISO,boundary|Herpes_UL4;,0.0,NESdb:231
+cand_D,UL4,Human herpesvirus 1,P10188,172,PTADLLVEVLREIQLSP  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*++*++*+*&nbsp&nbsp,PTADLLVEVLREIQLSP,*++*++*+*,CCCHHHHHHHHHHCCCC,c1c-4,DISO,boundary|Herpes_UL4;,0.0,NESdb:231
+cand_D,UL4,Human herpesvirus 1,P10188,173,TADLLVEVLREIQLSP  &nbsp&nbsp&nbsp&nbsp&nbsp*++*++*+*&nbsp&nbsp,TADLLVEVLREIQLSP,*++*++*+*,CCHHHHHHHHHHCCCC,c1a-4,DISO,boundary|Herpes_UL4;,0.0,NESdb:231
+cand_D,UL47 (HSV-1),Human herpesvirus 1,P10231,645,GGSVLGPRVRVVDIMS  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+++,GGSVLGPRVRVVDIMS,+++,CCCCCCCCCCHHHHHH,c1a-4,DISO,boundary|Herpes_UL47 superfamily;,0.0,NESdb:91
+cand_D,UL47 (HSV-1),Human herpesvirus 1,P10231,654,RVVDIMSQFRKLLMGD  &nbsp&nbsp&nbsp&nbsp++++++++++&nbsp&nbsp,RVVDIMSQFRKLLMGD,++++++++++,CHHHHHHHHHHHHHCC,c1a-5,DISO,boundary|Herpes_UL47 superfamily;,0.0,NESdb:91
+cand_D,USP21,Homo sapiens,Q9UK80,131,GTGELGAALSRLALRP  &nbsp&nbsp&nbsp+++++++++++++,GTGELGAALSRLALRP,+++++++++++++,CCCCCCCCCCCCCCCC,c1a-4,DISO,,0.0,validNES:P213
+cand_D,VEEV Capsid protein,Venezuelan equine encephalitis virus,P09592,37,QVQELTRSMANLTFKQ  ...........*.*..,QVQELTRSMANLTFKQ,...........*.*..,HHHHHHHHHHHHHCCC,c1a-5,DISO,,0.0,NESdb:144
+cand_D,VIK-1; ZNF655,Homo sapiens,Q8N720,95,RLERLQEILRKFLY  *+++++++++++++,RLERLQEILRKFLY,*+++++++++++++,CCCCHHHHHHCCCC,c3-4,DISO,,0.0,NESdb:207 validNES:P114
+cand_D,VIK-1; ZNF655,Homo sapiens,Q8N720,95,RLERLQEILRKFLYLER  *+++++++++++++*..,RLERLQEILRKFLYLER,*+++++++++++++*..,CCCCHHHHHHCCCCCCC,c1c-5,DISO,,0.0,NESdb:207 validNES:P114
+cand_D,VIK-1; ZNF655,Homo sapiens,Q8N720,98,RLQEILRKFLYLER  +++++++++++*..,RLQEILRKFLYLER,+++++++++++*..,CHHHHHHCCCCCCC,c3-4,DISO,,0.0,NESdb:207 validNES:P114
+cand_D,VP19C,Human herpesvirus 1,P32888,338,LEPALERLFGRLRITN  &nbsp&nbsp&nbsp&nbsp*++*+++*+*&nbsp&nbsp,LEPALERLFGRLRITN,*++*+++*+*,HHHHHHHHHHHHHCCC,c1a-4,boundary,MID|PHA03261;,0.0,NESdb:249
+cand_beta_D,VP3,Chicken anemia virus,Q99152,29,HCREIRIGIAGITITL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++++,HCREIRIGIAGITITL,++++++++,EEEEEEEEEEEEEEEE,c1a-4,DISO,MID|CAV_VP3;,1.0,NESdb:134 validNES:P118
+cand_beta_D,VP3,Chicken anemia virus,Q99152,31,REIRIGIAGITITL  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp++++++++,REIRIGIAGITITL,++++++++,EEEEEEEEEEEEEE,c2-4,DISO,MID|CAV_VP3;,1.0,NESdb:134 validNES:P118
+cand_D,Vpr (HIV-1),Human immunodeficiency virus type 1,P05928,56,GVEAIIRILQQLLFIH  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp**&nbsp&nbsp&nbsp,GVEAIIRILQQLLFIH,*  **,HHHHHHHHHHHHHHHH,c1a-5,boundary,boundary|VPR;,0.0,NESdb:86
+cand_D,Vpr (HIV-1),Human immunodeficiency virus type 1,P05928,59,AIIRILQQLLFIHFRI  &nbsp&nbsp&nbsp&nbsp&nbsp*&nbsp&nbsp**&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp,AIIRILQQLLFIHFRI,*  **,HHHHHHHHHHHHHCCC,c1a-5,boundary,boundary|VPR;,0.0,NESdb:86
+cand_D,vsx1,Danio rerio,O42250,33,RSKGFAITDLLGLES  &nbsp&nbsp&nbsp&nbsp+++++++++&nbsp&nbsp,RSKGFAITDLLGLES,+++++++++,CCCCCCHHHCCCCCC,c1b-AT-4,DISO,,0.0,validNES:P200
+cand_D,WASL,Homo sapiens,O00401,221,TGFDLNNLDPELKNLF  &nbsp&nbsp&nbsp&nbsp+++++++++++&nbsp,TGFDLNNLDPELKNLF,+++++++++++,CCCCCCCCCHHHHHHH,c1aR-5,DISO,boundary|PBD;,0.0,validNES:P077
+cand_D,WASL,Homo sapiens,O00401,224,DLNNLDPELKNLFD  &nbsp+++++++++++&nbsp&nbsp,DLNNLDPELKNLFD,+++++++++++,CCCCCCHHHHHHHH,c3-4,DISO,MID|PBD;,0.0,validNES:P077
+cand_D,WASL,Homo sapiens,O00401,224,DLNNLDPELKNLFDMCG  &nbsp+++++++++++&nbsp&nbsp&nbsp&nbsp&nbsp,DLNNLDPELKNLFDMCG,+++++++++++,CCCCCCHHHHHHHHHCC,c1c-5,DISO,boundary|PBD;,0.0,validNES:P077
+cand_D,WDR42A,Homo sapiens,Q5TAQ9,35,TSSGIEVEASDLSLSL  &nbsp&nbsp&nbsp&nbsp*++++++*+*+*,TSSGIEVEASDLSLSL,*++++++*+*+*,CCCCCCCCCCCCCCCC,c1a-AT-4,DISO,,0.0,NESdb:239
+cand_D,XAB1/Gpn1,Homo sapiens,Q9HCN4,291,QLERLRKDMGSVALDA  +++++++++++*+*&nbsp&nbsp,QLERLRKDMGSVALDA,+++++++++++*+*,HHHHHHHHHCCCCCCC,c1a-5,DISO,boundary|ATP_bind_1;,0.0,NESdb:240
+cand_D,XBP1,Homo sapiens,P17861,182,PLQNISPWILAVLT  &nbsp&nbsp&nbsp&nbsp++++++++++,PLQNISPWILAVLT,++++++++++,CHHHHHHHHHHHHH,c3-4,DISO,,0.0,validNES:P088
+cand_D,XBP1,Homo sapiens,P17861,182,PLQNISPWILAVLTLQI  &nbsp&nbsp&nbsp&nbsp+++++++++++++,PLQNISPWILAVLTLQI,+++++++++++++,CHHHHHHHHHHHHHHHH,c1c-5,DISO,,0.0,validNES:P088
+cand_D,XBP1,Homo sapiens,P17861,187,SPWILAVLTLQIQS  ++++++++++++++,SPWILAVLTLQIQS,++++++++++++++,HHHHHHHHHHHHHH,c2-4,DISO,,0.0,validNES:P088
+cand_D,XBP1,Homo sapiens,P17861,190,ILAVLTLQIQSLIS  ++++++++++++++,ILAVLTLQIQSLIS,++++++++++++++,HHHHHHHHHHHHHH,c3-4,DISO,,0.0,validNES:P088
+cand_D,Xp54; ddx6,Xenopus laevis,P54824,146,SGAYLIPLLERLDLKK  ...........*.*..,SGAYLIPLLERLDLKK,...........*.*..,CHHHHHHHHHHCCCCC,c1a-4,boundary,MID|SrmB;,0.0,NESdb:52 validNES:P048
+cand_D,Xp54; ddx6,Xenopus laevis,P54824,150,LIPLLERLDLKK  .......*.*..,LIPLLERLDLKK,.......*.*..,HHHHHHHCCCCC,c2-rev,boundary,MID|SrmB;,0.0,NESdb:52 validNES:P048
+cand_D,Zinc finger protein RFP; TRIM27,Homo sapiens,P14373,196,HEYRLLARLEELDLAI  ........*++*+*..,HEYRLLARLEELDLAI,........*++*+*..,HHHHHHHHHHHHHHHH,c1a-4,boundary,MID|SMC_N superfamily;,0.0,NESdb:43 validNES:P036
+cand_D,ZO-2; TJP2,Canis familiaris,Q95168,715,RPVVLFGPIADIALEK  &nbsp&nbsp&nbsp&nbsp++++*+++++++,RPVVLFGPIADIALEK,++++*+++++++,CCEEECCCHHHHHHHH,c1a-4,boundary,MID|GuKc;,0.143,NESdb:203 validNES:P115
+cand_D,ZO-2; TJP2,Canis familiaris,Q95168,724,ADIALEKLANELPDLF  +++++++++++*+++&nbsp,ADIALEKLANELPDLF,+++++++++++*+++,HHHHHHHHHHHCCCCC,c1aR-5,boundary,MID|GuKc;,0.0,NESdb:203 validNES:P115
+cand_D,Zyxin,Gallus gallus,Q04584,316,NSPLTMKEVEELELLT  &nbsp&nbsp&nbsp+++++++++++++,NSPLTMKEVEELELLT,+++++++++++++,CCCCCCHHHHHHHHHH,c1a-AT-4,DISO,boundary|Atrophin-1 superfamily; boundary|LIM1_Zyxin;,0.0,NESdb:23
+cand_D,Zyxin,Gallus gallus,Q04584,323,EVEELELLTQKLMK  +++++++++++++&nbsp,EVEELELLTQKLMK,+++++++++++++,HHHHHHHHHHHHHH,c3-AT,DISO,boundary|Atrophin-1 superfamily; boundary|LIM1_Zyxin;,0.0,NESdb:23
